@@ -1,0 +1,36 @@
+require("transparent").setup({
+    enable = true, -- boolean: enable transparent
+    extra_groups = {
+        "BufferLineSeparator",
+        "BufferLineSeparatorSelected",
+        "VertSplit",
+        "lualine_c_normal",
+        "lualine_b_inactive",
+        "lualine_c_inactive",
+        "lualine_x_inactive",
+        "lualine_transitional_lualine_b_normal_to_lualine_c_normal",
+        "lualine_transitional_lualine_a_normal_to_lualine_c_normal",
+        "GitSignsAdd",
+        "GitSignsChange",
+        "GitSignsDelete",
+        "GitSignsChange",
+        "Pmenu",
+        "PmenuSbar",
+        "Folded",
+        "FoldColumn",
+        "UfoFoldedBg",
+        "GruvboxAquaSign",
+        "GruvboxBlueSign",
+        "GruvboxGreenSign",
+        "GruvboxOrangeSign",
+        "GruvboxPurpleSign",
+        "GruvboxRedSign",
+        "GruvboxYellowSign",
+        "HopNextKey",
+        "HopNextKey1",
+        "HopNextKey2",
+    },
+    exclude = {
+        "CursorLine",
+    }, -- table: groups you don't want to clear
+})
