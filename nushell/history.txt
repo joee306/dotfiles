@@ -1,0 +1,6288 @@
+rm ~/.config/nushell/history.txt
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear ; cargo run
+clear
+surreal -h
+surreal isready
+surreal sql
+surreal start --user root --pass root memory
+clear
+surreal sql -u root -p root
+surreal sql -u "root" -p "root"
+surreal sql -u root -p root
+clear
+http://localhost:8000/sql
+http post http://localhost:8000/sql
+http -h
+clear
+paru postman
+cd Dev/rust/surrealtest/
+clear
+clear ; cargo run
+clear
+nvim ~/.config/nushell/history.txt
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+ls
+clear
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+surreal sql --conn http://localhost:8000 -u root -p root
+clear ; surreal sql --conn http://localhost:8000 -u root -p root
+cargo run
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+cargo run
+nvim .
+cd ..
+clear
+cd akit/
+clear
+git commit "before swaping mongodb with surrealdb"
+git -r commit "before swaping mongodb with surrealdb"
+git -m commit "before swaping mongodb with surrealdb"
+git commit -m "before swaping mongodb with surrealdb"
+git add .
+clear
+git status
+git commit -m "before swaping mongodb with surrealdb"
+clear
+ls
+git init
+git commit -m "before swaping mongodb with surrealdb"
+git branch -M main
+git remote add origin https://github.com/joee306/brass.git
+rm .git
+rm -r .git
+clear
+git init
+git add .
+git commit -m "before swaping mongodb with surrealdb"
+git branch -M main
+git remote add origin https://github.com/joee306/brass.git
+git push -u origin main
+clear
+ls
+rm README.md
+clea
+clear
+ls
+la
+rm -r .vscode/
+git add .
+clear
+git push -u origin main
+git add .
+git commit -m "before swaping mongodb with surrealdb"
+git push -u origin main
+clear
+cd ../akit/
+clear
+cargo add surrealdb
+clear
+nvim .
+clear ; cargo run
+asciitopgm 
+clear
+batman ascii
+clear
+clear ; cargo run
+clear
+cat ../surrealtest/src/main.rs
+clear
+cargo run
+clear
+cargo run
+http get http://localhost:8080/api/signup/joe/3006
+clear ; cargo run
+clear
+clear ; cargo run
+clear ; cargo run -d
+clear ; cargo run --debug
+clear
+clear ; cargo run -- --debug
+clear
+cargo watch -x run
+cargo install cargo-watch --locked
+cargo watch -x run
+clear
+cargo watch -x run
+clear
+poweroff 
+surreal start --user root --pass root memory
+sudo surreal 
+cd Dev/rust/akit/
+nvim .
+cd Dev/rust/akit/
+sudo pacman -Syyu
+surreal sql --conn http://localhost:8000 --user root --pass root --ns brass --db brassdb
+clear
+cd Downloads/
+ls
+firefox `Фото от Joe.jpg`
+mv `Фото от Joe.jpg` ~ 
+rm -r * 
+mv `~/Фото от Joe.jpg` .
+clear
+ls
+clear
+ls
+unzip learning_with_texts_2_0_3_complete.zip
+clear
+paru -S unzip
+clear
+ls
+mkdir lwt
+cd lwt/
+unzip ../learning_with_texts_2_0_3_complete.zip
+ls
+unzip lwt_v_2_0_3.zip
+clear
+ls
+firefox LWT_INSTALLATION.txt
+surreal start --user root --pass root memory
+cargo watch -x run
+cargo run
+cargo watch -x run
+clear
+surreal --user root --pass root 
+surreal sql --user root --pass root 
+surreal sql --conn http://localhost:8000 -u root -p root
+CREATE person SET text = "Lorem ipsum dolor sit amet";
+clear
+CREATE person SET text = "Lorem ipsum dolor sit amet";
+clear
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+surreal sql --conn http://localhost:8000 -u root -p root 
+surreal help
+curl --proto '=https' --tlsv1.2 -sSf https://install.surrealdb.com | sh
+surreal sql --conn http://localhost:8000 -u root -p root
+surreal sql --conn http://localhost:8000 -u root -p root -ns namespace
+surreal sql --conn http://localhost:8000 -u root -p root -n namespace
+surreal help
+surreal sql -h
+surreal sql --conn http://localhost:8000 -u root -p root --ns namespace
+clear
+cargo watch -x run
+surreal start -u root -p root memory
+clear 
+surreal sql --conn http://localhost:8000 -u root -p root
+surreal -b
+surreal -v
+clear
+surreal version
+surreal help
+surreal isready
+clear
+surreal sql --conn http://localhost:8000 -u root -p root
+clear
+nvim .
+cd ..
+cd surrealtest/
+clear
+surreal sql --conn http://localhost:8000 -u root -p root --ns joe
+clear
+ls
+rm history.txt
+cd ..
+cd surrealtest/
+nvim .
+clear
+cd ..
+cd akit/
+surreal sql --conn http://localhost:8000 -u root -p root --ns joe
+clear
+cd Dev/rust/surrealtest/
+clear
+ls
+cargo watch -x run
+cd ../akit/
+cargo watch -x run
+nvim src/
+dunst "yeet"
+dunstify d
+clear
+dunstify d
+dunstify -h string:x-dunst-stack-tag:test Test -A 'tested,default'
+surreal start -u root -p root memory
+clear
+surreal start -u root -p root memory
+clear
+surreal start -u root -p root memory
+clear
+nvim .
+surreal start -u root -p root memory
+poweroff 
+waybar
+cd Dev/rust/
+mv akit/ brass
+cd brass/
+clear
+cd Dev/rust/brass/
+surreal start -u root -p root memory
+clear
+surreal sql -u root -p root memory --conn localhost:8000
+surreal sql --conn http://localhost:8000 -u root -p root --ns joe
+clear
+exit
+fish
+echo "" \ echp "nein"
+clear
+fish
+clear
+http -h
+http get -h
+http post -h
+http post http://localhost:8000/sql { INFO FOR DB; }
+http post http://localhost:8000/sql 'INFO FOR DB;'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'INFO FOR DB;'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT * FROM user;'
+clear
+surreal start -u root -p root memory
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT * FROM user;'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user;'
+cd ../surrealtest/
+cargo run
+nvim .
+clear
+cargo run
+nvim .
+clear
+cargo run
+nvim .
+clear ; cargo run
+exit
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user WHERE session = "uUo:[PXLtVtxJr#}!y^C+ea&|{;cL`N+";'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user WHERE (session = "uUo:[PXLtVtxJr#}!y^C+ea&|{;cL`N+");'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user;'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user WHERE (session = "SCR++f3#@#a`lT=c@M:N;A\-1a*2YN?s");'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user WHERE (session = "");'
+clear ; cargo run
+cargo watch -x run
+clear
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user;'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user WHERE (session = "iZn}v6jza[<6l>6rQVvv36@S50XzIAcO");'
+surreal start -u root -p root memory
+surreal start -u root -p root 
+clear
+surreal start -u root -p root file:surreal.db
+cd
+mkdir Database
+cd Database/
+surreal start -u root -p root file:surreal.db
+clear
+clear
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user;'
+http post -u root -p root -H ["Accept" "application/json" "NS" "joe" "DB" "database"] http://localhost:8000/sql 'SELECT email,id,session FROM user WHERE (session = "[jwdNyKs]KnADTk>@7<3Be|s`aBh_eWQ");'
+nvim ~/.config/nushell/
+clear
+srdbcall  'SELECT email,id,session FROM user WHERE (session = "[jwdNyKs]KnADTk>@7<3Be|s`aBh_eWQ");'
+srdbcall 'SELECT email,id,session FROM user WHERE (session = "[jwdNyKs]KnADTk>@7<3Be|s`aBh_eWQ");'
+srdbcall 'SELECT * FROM user;'
+clear
+srdbcall 'SELECT email,id,session FROM user WHERE (session = "[jwdNyKs]KnADTk>@7<3Be|s`aBh_eWQ");'
+srdbcall 'delete user;'
+cd Dev/rust/brass/
+clear
+nvim new_user.nu
+ls
+rm new_user.nu
+clear
+cargo watch -x run
+clear
+surreal start -u root -p root file:surreal.db
+clear
+exit
+exit
+zellij 
+nvim .
+clear
+ping 2.tcp.eu.ngrok.io:12502
+clear
+exit
+cp Downloads/VanillaTweaks_r210142.zip .minecraft/resourcepacks/
+cd Downloads/
+ls
+mkdir ak23
+cd ak23/
+unzip ../wetransfer_m47a0915-jpg_2023-06-13_1427.zip
+clear
+exit
+cd Downloads/
+cd 
+cd .minecraft/saves/
+unzip `~/Downloads/Bonemeal Farm with Moss Block.zip`
+ls
+mv Downloads/VanillaTweaks_r888084.zip .minecraft/resourcepacks/
+mv Downloads/VanillaTweaks_r184741.zip .minecraft/resourcepacks/
+cd .minecraft/resourcepacks/
+mv VanillaTweaks_r888084.zip fb.zip
+mv VanillaTweaks_r184741.zip ll.zip
+ping 2.tcp.eu.ngrok.io:12502
+ping archlinux.org
+firefox 
+killall firefox
+btop
+firefox 
+ping archlinux.org
+clear
+#
+##
+###
+clea
+clear
+cd Dev/rust/clicir
+cd Dev/rust/ clicir
+cd Dev/rust/ #clicir
+clear 
+cargo new clicir
+clear
+cd clicir/
+clear
+cd clicir/
+cd Dev/rust/clicir
+clear
+cargo run
+nvim .
+rm -r .git/
+rm -r .
+cd ..
+rm -r clicir/
+ls
+clea
+clear
+ls
+cd brass/
+cd ../brass/
+clear
+ls
+cargo run
+clear
+celar
+cl 
+cargo run
+clear
+cargo run
+cd www
+surreal sql --conn http://localhost:8000 -u root -p root --ns joe
+clear
+ls .config/nushell/config.nu
+cat .config/nushell/config.nu
+cat .config/nushell/env.nu
+srdbcall 'select * from user;'
+srdbcall 'delete user;'
+srdbcall 'select * from user;'
+srdbcall 'delete user;'
+srdbcall 'select * from user;'
+srdbcall 'select email, passhash, username# from user;'
+srdbcall 'select email, passhash, username from user;'
+srdbcall 'delete user;'
+srdbcall 'select email, passhash, username from user;'
+cargo run
+srdbcall 'delete user;'
+srdbcall 'select email, passhash, username from user;'
+nvim .
+srdbcall 'select email, passhash, username from user;'
+exit
+nu npm_watch.nu
+exit
+surreal start -u root -p root file:surreal.db
+zellij 
+exit
+exit
+cd Dev/rust/brass/
+cd www
+cargo run
+clear
+srdbcall 'select email, passhash, username from user;'
+cargo add chrono
+exit
+srdbcall 'select * from chat;'
+srdbcall 'delete * from chat;'
+srdbcall 'delete chat;'
+clear
+srdbcall 'delete chat;'
+clear
+srdbcall 'delete * from chat;'
+srdbcall 'select * from chat;'
+clear
+srdbcall 'select * from chat;'
+srdbcall 'info for kv;'
+srdbcall 'select * from user;'
+#srdbcall 'update chat:zlnejm7nyycqcwz5pgn3 set members += '
+srdbcall 'select * from user;'
+srdbcall 'update chat:zlnejm7nyycqcwz5pgn3 set members += user:2iu6zdut5q4lh0lmzyhh'
+srdbcall 'select * from chat;'
+clear
+srdbcall 'select * from chat;'
+srdbcall 'select * from user;'
+srdbcall 'select * from user where email = dje@mail.de;'
+srdbcall 'select * from user where (email = dje@mail.de);'
+clear
+srdbcall 'select * from user where (email = dje@mail.de);'
+srdbcall 'select * from user where (email = "dje@mail.de");'
+clear
+srdbcall 'select * from user where (email = "dje@mail.de");'
+srdbcall 'select * from user where email = "dje@mail.de";'
+cargo watch -x run
+srdbcall 'select * from user;'
+clear
+surreal start -u root -p root file:surreal.db
+clear
+srdbcall 'delete *;'
+srdbcall 'delete user;'
+srdbcall 'delete chat;'
+clear
+srdbcall 'delete chat;'
+clear
+srdbcall 'select * from user;'
+srdbcall 'select passhash, session from user where email = dje@mail.org;'
+srdbcall 'select passhash session from user where email = dje@mail.org;'
+srdbcall 'select passhash, session from user where email = dje@mail.org;'
+clear
+srdbcall 'select passhash, session from user where (email = dje@mail.org);'
+srdbcall 'select * from user where (email = dje@mail.org);'
+srdbcall 'select passhash, session from user where (email = "dje@mail.org");'
+zellij -h
+zellij run ls
+zellij run "ls"
+zellij run
+clear
+paru termusic
+sleep 180s ; curl -sSLf http://get-termscp.veeso.dev | sh
+sleep 
+sleep -h
+sleep 3min ; curl -sSLf http://get-termscp.veeso.dev | sh
+srdbcall 'select passhash, session from user where (email = "dje@mail.org");'
+srdbcall 'select * from user;'
+clear
+term size 
+paru -S termscp
+termusic 
+paru -S termscp
+termscp 
+clear
+termusic 
+clear
+paru -S ueberzug
+clear
+ueberzug 
+ueberzug -h
+ueberzug layer Pictures/43317083.jpg
+ueberzug layer -h
+paru -S  fff-ueberzug-git 
+fff 
+paru -Rns  fff-ueberzug-git 
+ueberzug -h
+ueberzug -v
+ueberzug version
+ueberzug libary
+ueberzug library
+clear
+paru -Rns  ueberzugpp
+paru -S ueberzugpp
+clear
+ueberzugpp 
+ueberzugpp layer --silent --no-stdin --use-escape-codes --pid-file Pictures/43317083.jpg
+ueberzugpp layer --pid-file Pictures/43317083.jpg
+ueberzug layer --pid-file Pictures/43317083.jpg
+paru -S python-openslide
+ueberzug layer --pid-file Pictures/43317083.jpg
+ueberzugpp layer --pid-file Pictures/43317083.jpg
+clear
+yt-dlp https://www.youtube.com/watch?v=8oBV3jPTW4s&list=RDvhYsFIDAt2I&index=7
+clear
+clear -f 
+yt-dlp https://www.youtube.com/watch?v=8oBV3jPTW4s&list=RDvhYsFIDAt2I&index=7 -F
+yt-dlp https://www.youtube.com/watch?v=8oBV3jPTW4s&list=RDvhYsFIDAt2I&index=7 -f m4a
+clear
+ls
+mkdir vocaloid; mv .m4a ~/Music/vocaloid
+mkdir vocaloid; mv *.m4a ~/Music/vocaloid
+mv *.m4a ~/Music/vocaloid/
+ls Music
+mkdir Music
+mv vocaloid/ Music/
+mv *.m4a ~/Music/vocaloid/
+clear
+termusic 
+termusic Music/vocaloid/
+mv Music/vocaloid/* Music/
+clear
+termusic Music/
+ls Music
+rm Music/*.m4a
+clear
+ls
+ls Music/
+rm Music/vocaloid/
+termusic 
+clear
+termusic .
+exit
+surreal start -u root -p root file:surreal.db
+clear ; 
+mv ~/Downloads/Untitled.svg www/public/icon.svg
+clear
+exit
+cd www 
+npm run build
+cd 
+cd Dev/web/
+# create a new project with npmnpm create astro@latest
+npm create astro@latest
+cd test/
+clear
+npm run dev
+nvim .
+nvim .
+mv ~/Downloads/Untitled.svg www/public/favicon.svg
+mv -f ~/Downloads/Untitled.svg www/public/favicon.svg
+nu npm_watch.nu
+npm run build
+ls ~/Downloads/
+exit
+npm run dev
+exit
+surreal start -u root -p root file:surreal.db
+exit
+zellij 
+cd Music/
+ls
+mkdir Peep;mv  Lil Peep* Peep
+#mv  ´Lil Peep*´ Peep
+mkdir Peep
+sudo pacman -S any/noto-fonts-cjk
+sudo pacman -S noto-fonts-cjk
+mv **/Lil*/* Peep/
+mv *Lil* Peep/
+ls Peep/
+ls
+mv `LiL PEEP - Star Shopping.mp3`
+mv `LiL PEEP - Star Shopping.mp3` Peep/
+mv `Broken Smile (My All).mp3` Peep/
+clear
+ls
+mkdir русскйи# mv *о* 
+mv *о* русскйи.m3u
+mv *о* `русскйи#/`
+ды
+ls
+mv *о* `русскйи#/`
+termusic .
+exit
+cd Music/
+cd 
+cd Dev/rust/brass/
+cd
+cd Music/
+ls
+mv `русскйи#/` `русскйи/`
+сдуфк
+clear
+ls 
+waybar
+killall waybar
+mkdir vocaloid
+mv `【Ado】新時代 (ウタ from ONE PIECE FILM RED).mp3` vocaloid/
+mv `【Ado】逆光（ウタ from ONE PIECE FILM RED）.mp3` vocaloid/
+mv `【東方】Bad Apple!! ＰＶ【影絵】.mp3` vocaloid/
+mv `有機酸⧸ewe「カトラリー」(self cover) MV.mp3` vocaloid/
+mv `神山羊 - YELLOW【Music Video】⧸ Yoh Kamiyama - YELLOW.mp3` vocaloid/
+mv `lil peep - benz truck (prod. smokeasac).mp3` Peep/
+clear
+ls
+mv 【Ado】うっせぇわ.mp3 vocaloid/
+ls
+clear
+termusic .
+cd 
+cd Music/
+ls
+rm mv
+clear
+exit
+cd Music/vocaloid/
+yt-dlp https://youtu.be/DeKLpgzh-qQ -f mp3
+yt-dlp https://youtu.be/DeKLpgzh-qQ -F
+clear
+nvim 
+cd Dev/rust/brass/
+cargo watch -x run
+cd www/
+srdbcall 'select * from user;'
+srdbcall 'select passhash, session from user where email = dje@mail.org;'
+srdbcall 'select passhash, session from user where (email = dje@mail.org);'
+srdbcall 'select passhash, session from user where (email = "dje@mail.org");'
+clear
+nvim 
+cd ..
+cd surrealtest/
+ls
+nvim 
+cargo run
+nvim .
+cat ../brass/src/data.rs
+cd Dev/rust/brass/
+cat src/data.rs
+cargo run
+exit
+cd ..
+cd surrealtest/
+clear
+cargo run
+clear
+cd ..
+cd brass/
+clear
+nvim .
+http get http://localhost:8080/api/login/dje@mail.org/3006
+http get http://localhost:8080/api/test/dje@mail.org
+http get http://localhost:8080/api/test/joe
+srdbcall 'select passhash, session from user where (username = "joe");'
+surreal start -u root -p root file:surreal.db
+clear
+srdbcall 'select passhash, session from user where (username = "joe");'
+cd Dev/rust/surrealtest/
+ls
+cat src/main.rs
+cargo watch -x run
+clear
+cargo run
+exit
+zellij 
+cargo watch -x run
+nu npm_watch.nu
+exit
+nvim .
+exit
+rev -h
+rev ls Dev/rust/
+rev Dev/rust/
+rev Dev/rust/brass/src/main.rs
+red
+ping archlinux.org
+neotoppm 
+neon-config 
+clear
+ls
+ls history.txt
+bat history.txt
+rm history.txt
+ls
+clear
+ls
+#                                         @#GYk;:+.
+#         @#GYk;:+.         
+123456789 * 123456789
+math e 
+clear
+math pi 
+math eval 
+math eval 3
+math exp 
+math exp 3
+math exp
+math exp 
+math exp
+clear
+ ps 
+wall cat Dev/rust/brass/src/main.rs
+wall < cat Dev/rust/brass/src/main.rs
+wall "a"
+wall < cat Dev/rust/brass/src/main.rs
+wall "a"
+clear
+wall www.
+wall -h
+sh
+clear
+ping archlinux.org
+termusic 
+git clone https://github.com/Redyf/Hyprland
+mv Hyprland/ gits/
+ls gits/Hyprland/hypr/autostart
+cat gits/Hyprland/hypr/autostart
+cat gits/Hyprland/hypr/component/waybar/style.css
+ls Pictures/
+cat gits/Hyprland/hypr/hyprland.conf
+ls .config/hypr/
+cat .config/hypr/
+cat .config/hypr/scripts/
+mv .config/hypr/ .
+ls
+ls .
+mv hypr/ .config/
+mv .config/hypr/hyprland.conf .
+cat .config/hypr/autostart.sh 
+cat hyprland.conf
+mv gits/Hyprland/dunst/ .config/
+mv gits/Hyprland/neofetch/ .config/
+sudo pacman -S neofetch
+clear
+neofetch 
+mv gits/Hyprland/btop/ .config/
+rm .config/btop/
+rm -r .config/btop/
+mv gits/Hyprland/btop/ .config/
+mv gits/Hyprland/hypr/ .config/
+rm -r .config/hypr/
+mv gits/Hyprland/hypr/ .config/
+clear
+mv hyprland.conf .config/hypr/
+waybar 
+clear
+cd gits/
+rm Hyprland/
+rm -r Hyprland/
+git clone https://github.com/Redyf/Hyprland
+clear
+cat hyprland.conf
+cat Hyprland/hypr/hyprland.conf
+nvim .config/hypr/
+hyprctl -j
+hyprctl reload
+hyprctl workspaces
+hyprctl globalshortcuts
+hyprctl globalshortcuts -h
+clear
+cd .config/hypr/
+ls
+sh autostart
+sh scripts/launch_waybar
+ls ..
+ls ../waybar/
+sh autostart
+nvim autostart
+sh autostart
+killall waybar
+sh autostart
+nvim autostart
+nvim hyprland.conf
+clear
+nvim .config/hypr/hyprland.conf
+cd .config/hypr/
+nvim hyprland.conf
+cd .config/hypr/
+nvim hyprland.conf
+cd .config/hypr/
+nvim hyprland.conf
+cd .config/hypr/
+nvim hyprland.conf
+cd .config/hypr/
+nvim hyprland.conf
+cd ..
+nvim gits/
+cat gits/Hyprland/hypr/scripts/launch_waybar
+cat gits/Hyprland/hypr/component/waybar/config
+cat gits/Hyprland/hypr/scripts/emojis.sh
+cat gits/Hyprland/hypr/scripts/lock
+cat gits/Hyprland/hypr/scripts/rgb_borders
+cat gits/Hyprland/hypr/scripts/screenshot
+cat gits/Hyprland/hypr/scripts/tools/dynamic
+cat gits/Hyprland/hypr/scripts/tools/swww
+cat gits/Hyprland/hypr/scripts/tools/notif
+dunstify -h string:x-dunst-stack-tag:test Test -A 'tested,default'
+dunstctl -h
+dunst -h
+dunstctl "hi"
+dunstctl g
+dunstctl action uh
+clear
+cat gits/Hyprland/hypr/component/waybar/style.css
+nvim .
+waybar 
+cat gits/Hyprland/hypr/component/waybar/style.css
+waybar 
+sh gits/Hyprland/hypr/scripts/launch_waybar
+cat gits/Hyprland/hypr/component/waybar/style.css
+killall waybar
+cd .config/waybar/
+waybar 
+cat gits/Hyprland/hypr/component/waybar/style.css
+waybar 
+nvim .
+paru -S  xkblayout-state
+xkblayout-state 
+xkblayout-state -q
+xkblayout-state -query
+xkblayout-state print "Current layout: %s(%e)"
+xkblayout-state print %s(%e)
+xkblayout-state print %s
+xkblayout-state print %s%e
+xkblayout-state print %e
+xkblayout-state print 
+xkblayout-state print %E
+xkblayout-state print %s%E
+xkblayout-state print %c%E
+xkblayout-state print %v
+C
+xkblayout-state print %C
+xkblayout-state print %V
+xkblayout-state print %E
+xkblayout-state prin
+xkblayout-state print
+xkblayout-state print %s
+xkblayout-state print %%
+xkblayout-state print "Current layout: %s(%E)"
+paru -Rns  xkblayout-state
+clear
+cat /etc/default/keyboard
+xset -q | grep LED | awk '{ print $10 }')
+xset -q 
+nvim .
+clear
+paru -S cmatrix
+paru -Rns cmatrix
+sudo pacman -S cmatrix
+sh
+cmatrix
+cmatrix 
+cmatrix -h
+cmatrix -s
+cmatrix -bc
+cmatrix -f
+clear
+cmatrix -h
+cmatrix -m
+cmatrix -mr
+cmatrix -mrC
+clear
+cmatrix -h
+cmatrix -mrCxsb
+cmatrix -mrxsbC red
+clear
+cat gits/Hyprland/hypr/component/waybar/config
+exit
+exit
+termusic 
+cd Dev/rust/brass/
+cd Dev/rust/brass/www/
+exit
+cd Dev/rust/brass
+cargo watch -x run
+clear
+cd Dev/rust/brass/
+srdbcall 'select * from user;'
+srdbcall 'delete user;'
+srdbcall 'select * from user;'
+nu npm_watch.nu
+waybar &
+waybar 
+waybar &
+waybar ;&
+srdbcall 'delete user;'
+srdbcall 'select * from user;'
+clear
+srdbcall 'select * from user;'
+#srdbcall "update user:7smxacwv6tc9pq9jk4e set chats += ;"
+srdbcall 'select * from chats;'
+nvim .
+poweroff 
+clear
+cd Dev/rust/brass/
+exit
+surreal start -u root -p root file:surreal.db
+cd Dev/rust/brass/
+d www
+cd www
+clear
+surreal start -u root -p root file:surreal.db
+clear 
+cd Dev/rust/brass/
+srdbcall 'select username from chat;'
+srdbcall 'select * from chat;'
+srdbcall 'select * from user;'
+srdbcall 'select * from chat;'
+clear
+srdbcall 'update user:fff set chats += chat:23423423424121ds;'
+srdbcall 'select * from chat;'
+srdbcall 'select * from user;'
+srdbcall 'delete user:fff;'
+srdbcall 'select id from user where id = ;'
+srdbcall 'select id from user;'
+srdbcall 'select id from user where id = user:7smxacwv6tc9pq9jk4e6;'
+srdbcall 'select * from user where id = user:7smxacwv6tc9pq9jk4e6;'
+srdbcall 'select * from user where session = "nPAU=RM4RYM;xCTzyjEp5Lyr`dn_7:B5`A1jLnDskb2>scFMJLeSgiyX\\EllsYWt"'
+srdbcall 'select session, id, username from user where session = "nPAU=RM4RYM;xCTzyjEp5Lyr`dn_7:B5`A1jLnDskb2>scFMJLeSgiyX\\EllsYWt"'
+paru -Syyu
+exit
+cargo watch -x run
+clear
+cargo watch -x run
+clear
+btop
+cargo watch -x run
+btop
+killall rdd
+btop
+killall RDD_PROCES
+killall rdd
+btop
+killall rd
+killall brass
+clear
+srdbcall 'select id from chat;'
+ping google.com
+ping youtube.com
+exit
+srdbcall 'info for kv;'
+srdbcall 'info for ns;'
+srdbcall 'info for table;'
+srdbcall 'info for db;'
+srdbcall 'info for tb;'
+clear
+srdbcall 'select * from user:7smxacwv6tc9pq9jk4e6;'
+srdbcall 'select * from user:7smxacwv6tc9pq9jk4e6;' -j
+http -j
+http -h
+http get -h
+clear
+cd Dev/rust/surrealtest/
+cargo  r
+srdbcall 'select * from user:7smxacwv6tc9pq9jk4e6;'
+srdbcall 'select * from user where user:7smxacwv6tc9pq9jk4e6;'
+exit
+cd Dev/rust/surrealtest/
+cargo  r
+cargo r
+srdbcall 'select id from user:7smxacwv6tc9pq9jk4e6;'
+srdbcall 'select id, session from user:7smxacwv6tc9pq9jk4e6;'
+cargo r
+srdbcall 'select id, session from user:7smxacwv6tc9pq9jk4e6;'
+cargo r
+exit
+nvim .
+clear
+srdbcall 'select id session chat;'
+srdbcall 'select id from chat;'
+srdbcall 'select * from chat;'
+clear
+srdbcall 'select * from chat;'
+clear
+srdbcall 'select * from chat;'
+srdbcall 'delete chat;'
+srdbcall 'select * from chat;'
+srdbcall 'delete chat;'
+clear
+srdbcall 'select * from chat;'
+srdbcall 'select * from user;'
+srdbcall 'delete user;'
+srdbcall 'delete chat;'
+nvim .
+git commit -m "a lot new code routes not anymore in main.rs"
+git add Cargo.lock
+git add Cargo.toml
+git add src/
+git add www/
+git commit -m "a lot new code routes not anymore in main.rs"
+git push -u origin main
+exit
+termusic 
+zellij -s 1
+clear ; surreal start -u root -p root file:surreal.db
+cargo watch -x run
+nu npm_watch.nu
+poweroff 
+zellij -h
+zellij -a 1
+zellij -a1
+zellij a 1
+zellij -s 1
+cd Dev/rust/brass/
+cd www
+clear;
+srdbcall 'select * from user;'
+cd Dev/rust/brass/
+clear
+srdbcall 'select * from user;'
+clear
+srdbcall 'select * from chat;'
+srdbcall 'select * from user;'
+srdbcall 'select * from chat;'
+srdbcall 'select * from user;'
+clear
+srdbcall 'select * from user;'
+clear
+srdbcall 'select * from user;'
+srdbcall 'select * from chat where members = [chat:xfda58m9o9eaiqmuofu1,chat:5p9r8mvdylsfbjfdr3bj];'
+srdbcall 'select * from chat;'
+srdbcall 'select * from chat where members = [user:73gpwrprezekpi1k976b,user:edo72cedp76xrsnct0fe];'
+srdbcall 'select * from chat where members = [user:edo72cedp76xrsnct0fe,user:73gpwrprezekpi1k976b];'
+srdbcall 'array::sort(chat:5p9r8mvdylsfbjfdr3bj)'
+srdbcall 'select * from array::sort(chat:5p9r8mvdylsfbjfdr3bj);'
+clear
+srdbcall 'delete chat;'
+srdbcall 'delete user;'
+clear
+srdbcall 'select id from chat;'
+srdbcall 'select id from user;'
+srdbcall 'select id, username from user;'
+srdbcall 'select id, username, session from user;'
+srdbcall 'delete chat;'
+srdbcall 'delete user;'
+nvim .init_user.sh
+nvim .init_user.nu
+nu .init_user.nu
+nvim .init_user.nu
+nu .init_user.nu
+clear
+srdbcall 'select * from user;'
+srdbcall 'select id, session, username from user;'
+nvim .init_user.nu
+srdbcall 'delete user;'
+nu .init_user.nu
+srdbcall 'delete user;'
+nu .init_user.nu
+srdbcall 'select * from user;'
+srdbcall 'select * ;'
+clear
+srdbcall 'select * from user;'
+srdbcall 'select username, session, id, from user;'
+srdbcall 'select username, session, id from user;'
+srdbcall 'select chats,id, username from user;'
+srdbcall 'select * from user:scbaevfz9vx3bxt4ev78;'
+http get http://localhost:8080/api/signup/anya@mail.xx/аня/anya
+srdbcall 'select chats,id, username from user;'
+clear
+srdbcall 'select * from chat;'
+nvim
+zellij -s 1
+zellij a 1
+cargo watch -x run
+exit
+clear ; surreal start -u root -p root file:surreal.db
+exit
+clear ; nu npm_watch.nu
+exit
+exit
+termusic 
+exit
+poweroff 
+btop
+killall steam
+sudo poweroff 
+poweroff 
+termusic 
+exit
+killall GTA5.exe
+exit
+firefox .
+git commit -m "new instructions in data.rs"
+cd Dev/rust/brass/
+git commit -m "new instructions in data.rs"
+git add src/
+git add .init_user.nu
+git commit -m "new instructions in data.rs"
+                        git push -u origin main
+cd Dev/rust/brass/
+                        git push -u origin main
+clear
+                        git push -u origin main
+git
+clear
+                        git push -u origin main
+                        git push 
+git commit -m "new instructions in data.rs"
+git add .github/
+git commit -m "new instructions in data.rs"
+clear
+git add .github/
+git push -u origin main
+git remote add origin https://github.com/joee306/brass.git
+#udisksctl mount -b 
+sudo fdisk -l
+udisksctl mount -b /dev/sdd1
+cp . /run/media/joe/52C6-86C8/
+cp -r . /run/media/joe/52C6-86C8/
+cd ..
+cp -r brass/ /run/media/joe/52C6-86C8/
+ls /run/media/joe/52C6-86C8/
+ls /run/media/joe/52C6-86C8/brass/
+ls
+cd Dev/rust/
+cargo new bblc
+cd bblc/
+cd Dev/rust/bblc/
+cargo new bevy
+mr -r bevy/
+rm -r bevy/
+clear
+nvim .
+cargo add bevy
+cargo run -r
+cargo add bytemuk
+cargo add bytemuck
+cargo run -r
+cargo run -r --feature wayland
+cargo run --feature wayland -r
+cargo run --features wayland
+cargo run -r --features wayland
+cargo run --features wayland
+cargo run -r
+clear
+cargo run -r
+cd gits/
+git clone https://github.com/nannou-org/nannou.git
+ls
+cd nannou/
+cargo run -r --example draw_mesh
+cd gits/nannou/
+git clone https://github.com/rust-adventure/nannou-examples
+cd ..
+git clone https://github.com/rust-adventure/nannou-examples
+cd nannou-examples/
+ls
+clear
+ls
+ls sketches/
+ls sketches/perlin-noise-2d/
+ls sketches/perlin-noise-2d/src/
+cd sketches/perlin-noise-3d/
+cargo run -r 
+cd ../perlin-noise-2d/
+cargo run -r 
+cargo add noise
+nvim .
+cargo run -r 
+cd gits/
+ls
+git clone https://github.com/Razaekel/noise-rs.git
+cd noise-rs/
+clear
+ls 
+cd examples/
+ls
+cd ..
+cargo run -r --example worley
+cargo run -r --example worley --features="images"
+firefox images/fbm.png
+firefox images/unscaledFinalPlanet.png
+firefox images/unscaledFinalPlanet_16x_zoom.png
+clear
+cargo run -r --example worley --features="images"
+firefox example_images/worley.png
+firefox example_images/worley_chebyshev.png
+firefox example_images/worley_distance.png
+cargo run -r --example billow --features="images"
+firefox example_images/billow_billow_perlin.png
+firefox example_images/billow_perlin.png
+cargo run -r
+cargo run -r --example billow --features="images"
+clear
+cargo run -r --example billow --features="images"
+ls
+ls src/utils/noise_image.rs
+cat src/utils/noise_image.rs
+ls
+cargo new test
+cargo new testing
+cd testing/
+nvim .
+cargo r
+ls
+ls example_images/
+firefox example_images/billow_perlin.png
+cargo add nannou
+cargo add nanno
+cargo r
+rustup update
+cargo r
+nvim 
+cargo r
+btop
+cargo r
+cargo run -r
+123456789 * 123456789
+cargo run -r
+exit
+killall discord
+btop
+killall Discord
+cd Dev/rust/nowl
+cargo new nowl
+nvim .
+rm nowl/
+rm -re nowl/
+rm -r nowl/
+cd Dev/rust/
+cargo new nowl
+cd nowl/
+clear
+cargo add noise
+cd Dev/rust/nowl/
+cargo run
+clear
+cargo run
+nvim .
+cd ..
+cd bblc/
+cat src/main.rs
+cd 
+cd Dev/rust/bblc/
+cargo run -r
+cat ../nowl/src/main.rs
+cargo run -r
+udisksctl mount -b /dev/sdd1
+cd ..
+cp bblc/ /run/media/joe/52C6-86C8/
+cp -r bblc/ /run/media/joe/52C6-86C8/
+ls /run/media/joe/52C6-86C8/bblc/src/main.rs
+cat /run/media/joe/52C6-86C8/bblc/src/main.rs
+cp -r nowl/ /run/media/joe/52C6-86C8/
+nvim .
+udisksctl unmount -b /dev/sdd1
+sudo fdisk -l
+paru -S android-file-transfer
+aft-mtp-mount ~/mnt
+mkdir mnt
+aft-mtp-mount ~/mnt
+ls /mnt/
+aft-mtp-cli
+paru -S go-mtpfs-git 
+go-mtpfs 
+go-mtpfs ~/mnt
+sudo go-mtpfs ~/mnt
+udisksctl mount -b /dev/sdd1
+mv Music/ /run/media/joe/52C6-86C8
+udisksctl unmount -b /dev/sdd1
+udisksctl mount -b /dev/sdd1
+ls /run/media/joe/52C6-86C8/bblc/src/main.rs
+ls /run/media/joe/52C6-86C8/
+udisksctl unmount -b /dev/sdd1
+ls
+ls Downloads/
+mkdir DDF
+cd DDF/
+unzip `../Downloads/Die drei Fragezeichen-20230708T103203Z-002.zip`
+ls
+cd `Die drei Fragezeichen/` 
+ls
+cd ..
+mv `Die drei Fragezeichen/` ..
+ls
+clear
+cd ..
+ls
+cd DDF/
+ cd ..
+rm DDF/
+ls `Die drei Fragezeichen/(135) Fluch des Piraten/`
+conplay 
+conplay -hg
+clear
+ls `Die drei Fragezeichen/(135) Fluch des Piraten/`
+dc `Die drei Fragezeichen/(135) Fluch des Piraten/`
+cd `Die drei Fragezeichen/(135) Fluch des Piraten/`
+ls
+clear
+ls
+nvim list.txt
+ls
+ls > list.txt
+fish
+clear
+nvim list.txt
+ffmpeg -f concat -safe 0 -i list.txt -c copy Fluch der Piraten.wav
+ffmpeg -f concat -safe 0 -i list.txt -c copy "Fluch der Piraten.wav"
+clear
+ls
+conplay `Fluch der Piraten.wav`
+firefox `Fluch der Piraten.wav`
+clear
+ls `Fluch der Piraten.wav` 
+ cd ..
+sl
+clear
+ls
+cd `(136) Das versunkene/`
+nvim mod_file.py
+ls
+clear
+ls
+fish
+ls
+python ~/mod_file.py
+python ~/mod_file.py list.txt
+ls list.txt
+cat list.txt
+nvim list.txt
+ffmpeg -f concat -safe 0 -i list.txt -c copy "Das versunke Dorf.wav"
+ls
+clear
+ls
+mv `Das versunke Dorf.wav` 
+mv `Das versunke Dorf.wav` ..
+mv `../(135) Fluch des Piraten/Fluch der Piraten.wav` ..
+clea
+cd ..
+cleare
+clearer
+cleare
+clear
+ls
+cd `(149) Der namenlose Gegner/` 
+fish
+nvim .
+nvim automate.sh
+ls
+echo "ffmpeg -f concat -safe 0 -i list.txt -c copy \"Das versunke Dorf.wav\"" >> automate.sh
+nvim automate.sh
+echo "ffmpeg -f concat -safe 0 -i list.txt -c copy \"Das versunke Dorf.wav\"" > automate.sh
+nvim automate.sh
+clear
+nvim automate.sh
+sh automate.sh
+nvim automate.sh
+sh automate.sh
+nvim automate.sh
+ffmpeg -f concat -safe 0 -i list.txt -c copy "Der namenlose Gegner.wav"
+nvim list.txt
+nvim automate.sh
+sh automate.sh
+clear
+ls
+mv `Der Namenlose Gegner.wav` ..
+ls
+cd ..
+ls
+firefox `Der Namenlose Gegner.wav`
+mv `(149) Der namenlose Gegner/automate.sh`
+mv `(149) Der namenlose Gegner/automate.sh` .
+clear
+ls
+nvim automate.sh
+cp automate.sh `(150A) Geisterbucht - Rashuras Schatz/`
+cd `(150A) Geisterbucht - Rashuras Schatz/`
+nvim automate.sh
+sh automate.sh
+ls
+mv `Geisterbucht - Rashuras Schatz.wav` ..
+cd ..
+clear
+cp automate.sh `123Fußballfieber/`
+cd 123Fußballfieber/
+nvim automate.sh
+sh automate.sh
+ls
+firefox Fußballfieber.wav
+ ls
+mv Fußballfieber.wav ..
+cd ..
+cp automate.sh `140Stadt der Vampire/`
+cd `140Stadt der Vampire/`
+nvim automate.sh ; sh automate.sh
+mv `Stadt der Vampire.wav` .. ; cd ..
+clear
+ls
+cp automate.sh `142Tödliches Eis/`
+cd `142Tödliches Eis/`
+nvim automate.sh ; sh automate.sh
+clear
+ls
+cd-info 
+cd-read 
+cd-drive 
+ls
+mv `Tödliches Eis.wav` ; cd ..
+mv `Tödliches Eis.wav` .. ; cd ..
+clear
+cp automate.sh `144 Zwillinge Der Finsternis/`
+cd `144 Zwillinge Der Finsternis/`
+nvim automate.sh ; sh automate.sh
+sh automate.sh
+clear
+ls
+mv `Zwillinge der Finsternis.wav` ..;cd ..
+ls
+cp automate.sh `154Botschaft aus der Unterwelt/` 
+cd `154Botschaft aus der Unterwelt/`
+nvim automate.sh ; sh automate.sh
+mv `Botschaft aus der Unterwelt.wav` ..; cd ..
+clear
+ls
+cp automate.sh `158 - und der Feuergeist/`
+cd `158 - und der Feuergeist/`
+nvim automate.sh ; sh automate.sh
+mv `der Feuergeist.wav` ..; cd ..
+cp automate.sh `159Nacht der Tiger/`
+nvim automate.sh ; sh automate.sh
+cd `159Nacht der Tiger/`
+nvim automate.sh ; sh automate.sh
+clear
+ls
+mv `Nacht der Tiger.wav` ..;cd ..
+ls
+cp  automate.sh `160_Geheimnisvolle Botschaften/`
+cd `160_Geheimnisvolle Botschaften/`
+co -h
+clear
+nvim automate.sh ; sh automate.sh
+ls
+mv `Geheimnisvolle Botschaft.wav` ..
+cd ..
+clear
+cd `172und der Eisenmann/`
+cp ../automate.sh .
+ls
+ls `und die Poker-Hölle/`
+mv `und die Poker-Hölle/` ..
+cd ..
+ls
+clear
+ls
+dir 
+dir -h
+dircolors 
+ls
+cd  `Der Fluch der Sheldon Street Disc 3/`
+cp ../automate.sh .
+nvim automate.sh ; sh automate.sh
+ls
+mv `Fluch der Shelton Street.wav` `Fluch der Sheldon Street.wav`
+firefox `Fluch der Sheldon Street.wav`
+mv `Fluch der Sheldon Street.wav` ..
+cd ..
+ls
+cd `Die drei Fragezeichen (138) - Die geheime Treppe/`
+cp ../automate.sh .
+nvim automate.sh ; sh automate.sh
+firefox `Die geheime Treppe.wav`
+ls
+cd ..
+cd `Die drei Fragezeichen Der tote Mönch/`
+cp ../automate.sh .
+ls
+nvim automate.sh ; sh automate.sh
+clear
+ls
+mv `Der tote Mönch.wav`
+mv `Der tote Mönch.wav` ..
+cd ..
+clear
+ls
+mkdir output 
+cp *.wav output/
+ls output/
+firefox `Geheimnisvolle Botschaft.wav`
+cd ..
+ls 
+cd `Die drei Fragezeichen/`
+ls
+clear
+ls Downloads/
+mkdir DDF
+cd DDF/
+ls
+rm ../Downloads/VanillaTweaks_r210142.zip
+rm ../Downloads/learning_with_texts_2_0_3_complete.zip
+rm ../Downloads/wetransfer_m47a0915-jpg_2023-06-13_1427.zip
+rm `../Downloads/Bonemeal Farm with Moss Block.zip`
+unzip *.zip 
+unzip ../Downloads/*.zip
+ls
+..
+ls
+ls Downloads/
+ls
+cd
+cd Downloads/
+unzip ../Downloads/*.zip
+ls
+clear
+ls
+cp *.wav ../DDF/
+cp *.zip ../DDF/
+clear; cd;cd DDF
+ls
+unzip *.zip
+clear
+ls
+unzip `155_und der Meister des Todes-20230708T115552Z-001.zip`
+ls
+clear
+ls
+rm `155_und der Meister des Todes-20230708T115552Z-001.zip`
+ls
+clear
+ls
+cp `../Die drei Fragezeichen/automate.sh`
+cp `../Die drei Fragezeichen/automate.sh`.
+cp `../Die drei Fragezeichen/automate.sh` .
+clear
+ls
+nvim automate.sh
+cp automate.sh `155_und der Meister des Todes/`
+sh `155_und der Meister des Todes/automate.sh` "Meister des Todes.wav"
+cd `155_und der Meister des Todes/`
+clear
+nvim automate.sh
+sh automate.sh Meister des Todes
+ls list.txt
+cat list.txt
+nvim automate.sh
+ls
+clear
+sh automate.sh Meister des Todes
+ls
+nvim automate.sh
+mv Meister.wav ../"Meister des Todes.wav"
+cd ..
+ls
+mv `"Meister des Todes.wav"` `Meister des Todes.wav`
+unzip `156-Im Netz des Drachen-20230708T115556Z-001.zip`
+clear
+ls
+rm `155_und der Meister des Todes/`
+rm -r `155_und der Meister des Todes/`
+clear
+mv automate.sh
+mv automate.sh `156-Im Netz des Drachen/`
+cd `156-Im Netz des Drachen/`
+sh automate.sh "Meister des Todes"
+nvim automate.sh
+sh automate.sh "Meister des Todes"
+sh automate.sh ´Meister des Todes´
+sh automate.sh 'Meister des Todes'
+nvim automate.sh
+sh automate.sh 'Meister des Todes'
+clear
+ls
+nvim automate.sh
+mv `Meister des Todes.wav` ..
+mv automate.sh ..
+clear
+ls
+cd ..
+ls
+rm list.txt
+mv `Meister des Todes.wav` 'Im Netz des Drachen.wav'
+ls
+rm `156-Im Netz des Drachen-20230708T115556Z-001.zip`
+rm `156-Im Netz des Drachen/`
+rm r `156-Im Netz des Drachen/`
+rm -r `156-Im Netz des Drachen/`
+clear
+ls
+unzip `166und die brennende Stadt-20230708T115603Z-001.zip`
+cat automate.sh
+clear
+cd `166und die brennende Stadt/`
+cp ../automate.sh .
+sh automate.sh 'Die brennde Stadt'
+ls
+cd ..
+rm -r `166und die brennende Stadt/`
+rm `166und die brennende Stadt-20230708T115603Z-001.zip`
+ls
+unzip `167und das blaue Biest-20230708T115606Z-001.zip`
+cd `167und das blaue Biest/`
+sh automate.sh 'Das Blaue Biest'
+cp ../automate.sh .
+sh automate.sh 'Das Blaue Biest'
+cd ..
+rm `167und das blaue Biest-20230708T115606Z-001.zip`
+rm -r `167und das blaue Biest/`
+clear
+ls
+unzip `168GPS-Gangster-20230708T115607Z-001.zip`
+cd 168GPS-Gangster/
+cp ../automate.sh .
+sh automate.sh 'GPS-Gangster'
+clear
+ls
+cd ..
+ls
+rm `168GPS-Gangster-20230708T115607Z-001.zip`
+rm -r `168GPS-Gangster/`
+clear
+ls
+unzip `169Die Spur des Spielers-20230708T115613Z-001.zip`
+cd `169Die Spur des Spielers/`
+cp ../automate.sh .
+cleqar
+clear
+sh automate.sh 'Spur des Spielers'
+cd ..
+clear
+ls
+unzip `170Straße des Grauens-20230708T115644Z-001.zip`
+cp ../automate.sh .
+cd `170Straße des Grauens/`
+cp ../automate.sh .
+sh automate.sh 'Straße des Grauens'
+cd ..
+ls
+unzip `172und der Eisenmann-20230708T115647Z-001.zip`
+cd `172und der Eisenmann/`
+cp ../automate.sh .
+sh automate.sh 'Der Eisenmann'
+cd ..
+ls
+unzip `Die drei Fragezeichen (138) - Die geheime Treppe-20230708T115702Z-001.zip`
+cd `Die drei Fragezeichen (138) - Die geheime Treppe/`
+cp ../automate.sh .
+sh automate.sh 'Die geheime Treppe'
+cd ..
+ls
+rm -r `169Die Spur des Spielers-20230708T115613Z-001.zip`
+rm -r `169Die Spur des Spielers/`
+rm `170Straße des Grauens-20230708T115644Z-001.zip`
+rm -r `170Straße des Grauens/`
+rm -r `172und der Eisenmann-20230708T115647Z-001.zip`
+rm -r  `172und der Eisenmann/`
+clear
+ls
+rm -r `Die drei Fragezeichen (138) - Die geheime Treppe-20230708T115702Z-001.zip`
+rm -r `Die drei Fragezeichen (138) - Die geheime Treppe/`
+clear
+ls
+unzip `Die drei Fragezeichen Der tote Mönch-20230708T115721Z-001.zip`
+cd `Die drei Fragezeichen Der tote Mönch/`
+cp ../automate.sh .
+sh automate.sh 'Der tote Mönch'
+cd ..
+ls
+rm -r `Die drei Fragezeichen Der tote Mönch/`
+ls
+rm `Die drei Fragezeichen Der tote Mönch-20230708T115721Z-001.zip`
+clear
+ls
+unzip `Die drei Fragezeichen-20230708T103203Z-002.zip`
+ls
+rm `Die drei Fragezeichen/`
+rm -re `Die drei Fragezeichen/`
+rm -r `Die drei Fragezeichen/`
+clear
+ls
+rm `Die drei Fragezeichen-20230708T103203Z-002.zip`
+ls
+unzip  `Haus des Schreckens-20230708T115723Z-001.zip`
+cd `Haus des Schreckens/`
+cp ../automate.sh .
+sh automate.sh 'Haus des Schreckens'
+ls list.txt
+cat list.txt
+ls 
+cd ..
+rm `Haus des Schreckens-20230708T115723Z-001.zip`
+rm -r `Haus des Schreckens/`
+clear
+ls
+unzip `Im Zeichen der Schlangen-20230708T115729Z-001.zip`
+cd `Im Zeichen der Schlangen/`
+cp ../automate.sh .
+sh automate.sh 'Im Zeichen der Schlangen'
+ls 
+rm ..
+clear
+ls
+cd ..
+ls
+rm -r `Im Zeichen der Schlangen/`
+rm `Im Zeichen der Schlangen-20230708T115729Z-001.zip`
+clear
+ls
+unzip `Schwarze Sonne (151)-20230708T115731Z-001.zip`
+rm `Schwarze Sonne (151)-20230708T115731Z-001.zip`
+rm -r `Schwarze Sonne (151)/`
+ls
+unzip `Top Secret Fall 3 - High Strung - Unter Hochspannung-20230708T115739Z-001.zip`
+rm `Top Secret Fall 3 - High Strung - Unter Hochspannung-20230708T115739Z-001.zip`
+rm -r `Top Secret Fall 3 - High Strung - Unter Hochspannung/`
+ls
+unzip `und der schreiende Nebel-20230708T115744Z-001.zip`
+rm `und der schreiende Nebel-20230708T115744Z-001.zip`
+rm -r `und der schreiende Nebel/`
+ls
+rm `und die Geisterlampe-20230708T115810Z-001.zip`
+rm `und die feurige Flut-20230708T115802Z-001.zip`
+clear
+ls
+mv *.wav `../Die drei Fragezeichen/output/`
+cd
+rm DDFR `Die drei Fragezeichen/` 
+mv DDFR `Die drei Fragezeichen/`
+mv `Die drei Fragezeichen/` DDFR
+mv DDFR/output/ `Die drei Fragezeichen/`
+ls `Die drei Fragezeichen/`
+cd Dev/rust/
+clear
+ls
+cargo new vash
+cd vash/
+clear
+cd Dev/rust/vash/
+cargo run
+ls ~/gits/
+cd gits/
+git clone https://github.com/ash-rs/ash.git
+ls
+cp ~/gits/ash/examples/shader/ .
+cp -r ~/gits/ash/examples/shader/ .
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+btop 
+cargo run
+cd Dev/rust/vash/
+cargo run
+clear
+cargo run
+btop 
+sudo btop 
+clear
+sudo btop 
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+cd Dev/rust/vash/
+clear
+cd Dev/rust/vash/
+cargo run
+clear
+clear ; cargo run
+cargo add rand
+nvim .
+clear ; cargo run
+clear ; cargo run -r
+cd Dev/rust/vash/
+clear ; cargo run -r
+btop 
+cd Dev/rust/vash/
+clear ; cargo run -r
+nvim .
+cd Dev/rust/
+cargo new ray_bevy
+cd ray_bevy/
+cargo add bevy
+cd Dev/rust/ray_bevy/
+cargo run
+123456789 * 123456789
+cargo run
+123456789 * 123456789
+cargo run
+123456789 * 123456789
+clear
+cargo run
+nvim .
+clear
+nvim .
+cargo run
+nvim .
+cargo run
+sudo btop 
+cargo run
+cd Dev/rust/ray_bevy/
+cd Dev/rust/ray_bevy/
+cargo run
+clear
+cargo run
+123456789 * 123456789
+cargo run
+cd Dev/rust/ray_bevy/
+cargo run
+cd Dev/rust/ray_bevy/
+cargo run
+  
+cargo run
+  clear
+cargo run
+nvim .
+cd Dev/rust/ray_bevy/
+sudo vim /
+exit
+cd Dev/rust/ray_bevy/
+cargo run
+cargo run -r 
+paru -S brave-bin
+cd gits/bevy/examples/
+ls
+cd 3d/
+clear
+ls
+cargo run --example lines
+cat lines.rs
+nvim lines.rs
+cat lines.rs
+ls
+clear
+cargo run -r 
+clear
+cargo run -r 
+123456789 * 123456789
+cargo run -r 
+nvim .
+cd ..
+cd vash/
+clear
+cd ../vash/
+clear
+cargo run -r 
+cargo add anyhow
+nvim .
+cargo run -r 
+nvim .
+cd gits/
+ls vulkan-rust/src/
+cat vulkan-rust/src/main.rs
+git clone https://github.com/Lyrapuff/vulkan-engine.git
+cd vulkan-engine/
+cargo run -r 
+cd gits/vulkan-engine/
+cargo run -r 
+btop
+exit
+cd gits/vulkan-engine/
+cargo run -r 
+cd gits/vulkan-engine/
+cargo run -r 
+nvim 
+nvim .
+cd Dev/rust/vash/
+nvim .
+sudo pacman -S starship
+clear
+starship 
+clear
+nvim .config/nushell 
+:q
+clear
+nvim .config/nushell 
+clear
+nvim .config/nushell/config.nu
+clear
+nnu
+clear
+nvim .bashrc
+exit
+clear
+cp -r /run/media/joe/52C6-86C8/wallpaper/ Pictures
+exit
+Hyprland
+ls .config/hypr/
+hyprctl globalshortcuts -h
+paru -s swww
+exit
+Hyprland
+exit
+Hyprland
+swww
+paru -s swww
+firefox
+clear
+paru -S discord hyprbar
+paru hyprbar
+paru hyprbar-hyprland
+paru -S discord
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cat .config/hypr/hyprland.conf
+paru hyprland
+paru -S cat
+paru -S bat
+paru hyprland
+15
+swww
+paru hyprland
+hyprshot 
+hyprshot region
+ls
+ls -a
+ls -o Pictures/ -m window
+hyprshot -o Pictures/ -m region
+ls
+hyprshot -o Pictures/ -f screenshot.png -m region
+ls
+clear
+paru -S waybar-hyprland
+waybar 
+clear
+ttf-jetbrains-mono-nerd
+paru -S ttf-jetbrains-mono-nerd
+exit
+waybar 
+wlrrandr
+paru wlr-randr
+clear
+exit
+paru -S swww
+firefox
+Hyprland
+swww
+cat .config/hypr/hyprland.conf
+paru -S wofi
+clear
+paru -S pavucontrol
+paru -S swww
+swww 
+hyprctl 
+hyprctl reload
+swww init
+swww
+swww init
+nvim .config/hypr/hyprland.conf
+cat .config/hypr/hyprland.conf
+swww img -o HDMI-A-1 /home/joe/Pictures/wallpaper/WaterResidue.jpg; swww img -o DVI-D-1 /home/joe/Pictures/wallpaper/PurpleWave.png
+ls Pictures/wallpaper
+cp -r /run/media/joe/52C6-86C8/wallpaper/ Pictures/
+ls Pictures/
+cd Pictures/
+mv *.png wallpaper/
+mv *.gif wallpaper/
+ls
+mv *.jpg wallpaper/
+clear
+ls
+hyprctl reload
+swww img -o HDMI-A-1 /home/joe/Pictures/wallpaper/WaterResidue.jpg; swww img -o DVI-D-1 /home/joe/Pictures/wallpaper/PurpleWave.png
+nvim 
+clear
+cp -r /run/media/joe/52C6-86C8/
+clear
+mkdir Dev
+mv Dev/ dev
+cd dev/
+mkdir rust
+cargo new rvengine
+mv rvengine/ rust/
+clear
+ls
+cd rust/
+ls
+clear
+cd rvengine/
+cd Dev/rust/vash/
+cd dev/rust/rvengine/
+clear
+cargo add ash-window
+cargo run -r 
+mv ~/Downloads/* assets/shader
+cargo run -r 
+sudo pacman -S mesa vulkan-radeon
+clear
+cargo run -r 
+cd 
+cd dev/
+mkdir gits
+git clone https://github.com/gwihlidal/ash-nv-rt.git
+ls
+mv ash-nv-rt/ gits/
+cd gits/ash-nv-rt/
+cargo run -r 
+nvim .
+clear
+cd ..
+git clone https://github.com/Lyrapuff/vulkan-engine.git
+cd vulkan-engine/
+cargo run -r 
+nvim .
+swww img -o HDMI-A-1 /home/joe/Pictures/wallpaper/WaterResidue.jpg; swww img -o DVI-D-1 /home/joe/Pictures/wallpaper/PurpleWave.png
+cd dev/rust/rvengine/
+cd dev/gits/
+git clone https://github.com/vulkano-rs/vulkano.git
+cd vulkano/
+cargo run --bin triangle
+cargo run --bin tessellation
+cargo run --bin indirect
+cargo run --bin instacing
+cargo run --bin instancing
+cargo run --bin teapot
+btop
+sudo pacman -S btop
+btop
+clear
+cargo run --bin multi_window_game_of_life
+cargo run --bin runtime-shader
+cargo run --bin runtime_array
+cargo run --bin texture_array
+cargo run --bin image
+cargo run --bin interactive_shader
+cargo run --bin interactive_fractal
+clear
+cd 
+cd dev/rust/rvengine/
+cargo run -r
+cargo add vulkano
+cargo run -r
+cd dev/gits/
+ls
+clear
+ls
+cd vulkano
+nvim .
+cargo run --bin triangle
+cargo run -r
+clear
+cargo run -r
+cargo add vulkano-win
+cargo run -r
+cargo add vulkano-shaders
+cargo run -r
+cd dev/gits/
+cd vulkano/
+cargo run --bin simple-particles
+nvim .
+cargo run --bin simple-particles
+clear
+nvim .
+cargo run -r
+nvim .
+cargo run -r
+cd
+clear
+git clone https://github.com/joee306/dotfiles
+cp -r dotfiles/.config/nvim/ .config/nvim
+nvim
+nvim 
+nvim
+cargo run -r
+1000 / 2000 - 1
+1000 / 2000
+1000 / 2000 * 2
+1000 / 2000 * 2 - 1
+0 / 2000 * 2 - 1
+2000 / 2000 * 2 - 1
+cargo run -r
+cd vulkano
+cd dev/rust/rvengine/
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+btop
+exit
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+nvim .
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+Hyprland
+cd dev/rust/rvengine/
+cargo run -r
+clear
+nvim Downloads/EF.pdf
+sudo pacman -S gimp
+cargo run -r
+sudo pacman -S gimp
+cargo run -r
+cd .config/nvim/plugin/
+ls
+clear
+exit
+cd .config/nvim/plugin/
+ls
+cd ..
+ls lazy-lock.json
+nvim .
+exit
+nvim .
+clear
+ls
+paru -S nerd-fonts-jetbrains-mono-160
+cd dev/rust/rvengine/
+cargo run -r
+paru -S ttf-jetbrains-mono-nerd 
+paru -Rns nerd-fonts-jetbrains-mono-160
+clear
+cargo run -r
+btop
+cat ~/.config/alacritty/alacritty.yml
+paru -S ttf-space-mono-nerd
+clear
+nvim ~/.config/alacritty/alacritty.yml
+clear
+exit
+cd clear
+clear
+nvim ~/.config/alacritty/alacritty.yml
+clear
+cd Dev/rust/vash/
+clear
+cd dev/rust/rvengine/
+clear
+cat ~/.config/alacritty/alacritty.yml
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+Hyprland
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+clear
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+1000 / 2000 * 2 - 1
+cargo run -r
+nvim 
+error make 
+error make -h
+error make {msg: "yeet"}
+clear
+reset -h
+reset
+cl
+cs
+reset
+reb
+Hyprland
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/gits/vulkano
+cargo run -r --example basic-compute_shaders
+cargo run -r --example basic-compute-shaders
+cargo run -r --bin basic-compute-shaders
+clea
+clear
+cargo run -r --bin basic-compute-shader
+cargo run -r --bin runtime_array
+cargo run -r --bin multi_window_game_of_life
+clear
+cargo add vulkano-utils
+nvim 
+cargo add vulkano-util
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+cd dev/gits/vulkano
+cargo run -r --bin deferred
+cd dev/gits/vulkano
+nvim 
+cargo run -r --bin triangle
+nvim 
+cargo run -r --bin triangle
+cargo run -r
+nvim 
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+cd dev/gits/vulkano
+cd 
+cd dev/rust/rvengine/
+cargo run -r
+btop
+cargo install exa --locked
+exa
+~/.cargo/bin/exa
+ls
+clear
+cd dev/rust/rvengine/
+exa
+clear
+nvim 
+vim ~/.config/nushell/config.nu
+nvim ~/.config/nushell/config.nu
+nvim ~/.config/nushell/env.nu
+clear
+fucking pacman -Syyu
+nvim ~/.config/nushell/env.nu
+clear
+fucking pacman -Syyu
+nvim
+cd dev/rust/rvengine/
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear ; cargo run -r
+cargo run -r
+clear ; cargo run -r
+nvim .
+cd dev/rust/rvengine/
+paru -S brave-bin
+cd dev/rust/rvengine/
+cargo run -r
+cp -r ~/dev/gits/vulkano/examples/src/bin/interactive_fractal/* src/
+cargo run -r
+cd dev/gits/
+rm vulkano/
+rm -re vulkano/
+rm -r vulkano/
+git clone https://github.com/vulkano-rs/vulkano/tree/0.33.X
+git clone https://github.com/vulkano-rs/vulkano
+clear
+git 
+git branch
+cd vulkano/
+git branch
+git branch -a
+cd ..
+git --branch 0.33.X clone https://github.com/vulkano-rs/vulkano
+git --branch <0.33.X> clone https://github.com/vulkano-rs/vulkano
+git clone --branch 0.33.X clone https://github.com/vulkano-rs/vulkano
+git clone -b 0.33.X clone https://github.com/vulkano-rs/vulkano
+ls
+rm -r vulkano/
+git clone -b 0.33.X clone https://github.com/vulkano-rs/vulkano
+git clone -b 0.33.X https://github.com/vulkano-rs/vulkano
+clear
+ls 
+cd vulkano/
+cp -r ~/dev/gits/vulkano/examples/src/bin/interactive_fractal/* src/
+nvim .
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+cargo run -r
+clear
+clear ; cargo run -r
+clear
+clear ; cargo run -r
+clear
+clear ; cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+clear ; cargo run -r
+cargo run -r
+paru -S obsidian
+paru -Sy obsidian
+Hyprland
+nvim .config/hypr/hyprland.conf
+brave
+cd dev/rust/rvengine/
+cargo run -r
+clear ; cargo run -r
+nvim 
+clear ; cargo run -r
+paru -h
+paru -D
+clear ; cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+cd dev/rust/rvengine/
+cargo run -r
+clear ; cargo run -r
+9#[
+clear ; cargo run -
+clear ; cargo run -r
+btop
+exit
+btop
+clear ; cargo run -r
+clear ; cargo run -r -- 500
+clear ; cargo run -r -- 5000
+clear ; cargo run -r -- 50
+clear ; cargo run -r -- 500
+paru libreoffice-still
+btop
+brave `~/Downloads/Religion im Alltag_Wochenaufgabe.jpg`
+clear
+clear ; cargo run -r -- 500
+ls target/release/build/
+ls target/release/
+ls target/release/build/
+ls target/release/build/ahash-3aeea2c264e2a737/
+cargo run -r
+cargo run -r -- 300
+250³
+250 * 250 * 250
+cargo run -r -- 300
+cargo run -r -- 600
+cargo run -r -- 1000
+cargo run -r -- 100
+cargo run -r -- 500
+nvim 
+clear
+ls
+rm .git/
+rm -r .git/
+git init
+git add .
+git commit -m "first commit"
+git config --global user.email "joeesser306@gmail.com"
+git config --global user.email "Joe Esser"
+git config --global user.email "joeesser306@gmail.com"
+git config --global user.name "joeesser306@gmail.com"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/joee306/RayVox.git
+git push -u origin main
+clea
+clear
+Hyprland
+cd dev/rust/rvengine/
+cargo run -r -- 500
+cd dev/rust/rvengine/
+cargo run -r -- 500
+cd dev/gits/
+git clone https://github.com/hasenbanck/asche.git
+cd asche/
+cargo run -r -bin compute
+cargo run -r --bin cube
+clear
+nvim 
+paru -S steam
+paru -Sy steam
+paru -S minecraft-launcher
+Hyprland
+paru -S tor-browser
+tor-browser 
+Hyprland
+paru -S intellij-idea-ce
+clear
+exit
+ls
+ls -a
+ls .config/hypr/
+ls .config/
+ls .config/JetBrains/
+ls .config/JetBrains/IdeaIC2023.2/
+ls .config/JetBrains/IdeaIC2023.2/idea64.vmoptions
+cat .config/JetBrains/IdeaIC2023.2/idea64.vmoptions
+ls
+ls -a
+clear
+carg run
+clear
+touch .ideavimrc
+cargo run
+nvim .ideavimrc
+cd dev/rust/alks/
+cargo run
+rustup update
+cargo run
+rustup update
+cargo run
+rustup update
+cargo run
+nvim .
+cd dev/rust/alks/
+cargo run
+cd ..
+cargo new alkan_render
+rm alkan_render/
+rm -r alkan_render/
+cargo install create-tauri-app --locked; cargo create-tauri-app
+cd alkan_render/
+npm i
+paru npm
+paru -Sy npm
+npm i
+npm run tauri dev
+sh
+npm run tauri dev
+clear
+nvim 
+cd ..
+cd alkan_render/
+npm run tauri dev
+cdd dev/
+cd dev/
+ls
+nvim tex.html
+firefox tex.html
+brave tex.html
+nvim tex.html
+cd gits/
+git clone https://github.com/daign/daign-2d-graphics-examples.git
+cd daign-2d-graphics-examples/
+clear
+npm run compile
+npm run test
+cd ..
+cd  https://github.com/FlorianRappl/tikz.js.git
+git clone https://github.com/FlorianRappl/tikz.js.git
+cd tikz.js/
+npm install tikz.js
+tikz source.tikz
+npm tikz
+npm exec tikz
+npm exec tikz source.tikz
+ls
+npm run tauri dev
+btop
+npm install md-block
+npm run tauri dev
+npm install md-block
+cd 
+clear
+nvim chem.tex
+paru -S pdflatex
+sudo pacman -S pdflatex
+paru -S texlive-core
+pdflatex chem.tex
+npx 
+clear
+cp Downloads/tikzjax.js dev/rust/alkan_render/src/
+cp Downloads/ef253ef29e2f057334f77ead7f06ed8f22607d38.wasm dev/rust/alkan_render/src/
+cp Downloads/7620f557a41f2bf40820e76ba1fd4d89a484859d.gz dev/rust/alkan_render/src/
+clear
+npm run tauri dev
+cd dev/gits/
+ls
+clear
+ls
+rm daign-2d-graphics-examples/
+rm -r daign-2d-graphics-examples/
+rm -r tikz.js/
+git clone https://github.com/drgrice1/tikzjax.git
+git checkout
+cd tikzjax/
+git checkout
+git branch
+git branch -l
+git branch -b "ww-modifications"
+git checkout -b "ww-modifications"
+git clone https://github.com/drgrice1/web2js
+cd web2js/
+git checkout -b "ww-modifications"
+clear
+cd ..
+ls 
+nvim .
+npm i
+npm run build
+ls
+ls web2js/
+ls
+nvim .
+exit
+Hyprland
+nvim .config/hypr/hyprland.conf
+cd dev/
+mkdir web
+cd web/
+mkdir vue-test
+cd vue-test/
+npm init -y
+ls
+clear
+nvim .
+npm install vue
+nvim example.js
+node example.js
+clear
+cd ..
+rm -r vue-test/
+npm create vue@latest
+cd vue-test/
+npm i
+cd dev/web/vue-test/
+cd dev/rust/alkan_render/
+npm run dev
+npm run build
+npm run dev
+brave dist/index.html
+nvim .
+cd ..
+git clone https://github.com/actix/examples/tree/9ac242138ac77ef6271fe37d56ada57de85e5340/basics/static-files
+git clone basics/static-files
+git clone https://github.com/actix/examples/tree/master/basics/static-files
+cd 
+cd dev/gits/
+git clone https://github.com/actix/examples/tree/master
+git clone https://github.com/actix/examples/
+clear
+cd examples/
+cargo run -r --bin static-files
+cd basics/static-files/
+cargo run -r --bin static-files
+nvim .
+cargo run -r --bin static-files
+clear
+nvim .
+cd 
+cd dev/gits/
+ls
+cd tikzjax/
+ls
+npm run build
+cat README.md
+cd ..
+cd rust/alkan_render/
+clear
+cd ..
+cd rust/alkan_render/
+npm run tauri dev
+nvim .
+cd dev/rust/alkan_render/
+cd dev/rust/alks/
+cargo run
+cargo add svg-tikz
+exit
+cd 
+cd dev/rust/alks/
+nvim .
+cargo run
+nvim test.tex
+cat test.tex
+cargo run
+brave input.svg
+cargo run
+brave input.svg
+pdflatex chem.tex
+ls
+pdflatex -h
+latex chem.tex
+paru -S svg2tikz-git
+latex chem.tex
+cd dev/gits/examples/basics/static-files/
+cargo run
+cargo run -r
+cd ..
+clear
+ls
+clear
+ls
+git clone https://github.com/drgrice1/web2js.git
+git branch -b "ww-modifications"
+cd web2js/
+git branch -b "ww-modifications"
+git checkout -b "ww-modifications"
+clear
+npm i 
+npm install
+npm run build
+ls
+clear
+ls
+sudo pacman -S texlive-latex
+tlmgr update --all
+sudo tlmgr update --all
+clear
+tlmgr info
+latex chem.tex
+clear
+cd 
+touch out.cls
+latex chem.tex
+clear
+cd dev/gits/web2js/
+npm install
+nvim .
+Hyprland
+nvim .config/hypr/hyprland.conf
+hyprctl reload
+swww -h
+paru -S minecraft-launcher
+sudo vim /
+sudo nvim /
+exit
+ls
+cat chem.tex
+clear
+cd dev/rust/alkan_render/
+ls
+clear
+cd dev/rust/alkan_render/
+clear
+nvim .
+cd ..
+cd alks/
+cargo run -r
+cargo run -r -- "octan"
+cargo run -r -- "2,2,3-trimethyloctan"
+exit
+cd dev/rust/alks/
+cargo run -r -- "2,2,3-trimethyloctan"
+cargo add tectonic
+nvim .
+cargo run -r -- "2,2,3-trimethyloctan"
+brave foo.txt
+rm foo.txt
+brave foo.txt
+cargo run -r -- "2,2,3-trimethyloctan"
+brave foo.pdf
+cargo run -r -- "2,2,3-trimethyloctan"
+ls
+brave `2,2,3-trimethyloctan.pdf`
+cargo run -r -- "2,2,3-trimethyloctan"
+clear
+cargo run -r -- "2,2,3-trimethyloctan"
+cargo run -r -- "2,2,3-trimethyloctan" -t
+nvim 
+cd ..
+cd alkan_render/
+cd ..
+cd alkan_render/
+cd dev/rust/alkan_render/
+npm i svelte pdf
+exit
+npm run tauri dev
+npm install svelte-pdf
+cd dev/rust/
+cp alks/foo.pdf alkan_render/public/
+npm run tauri dev
+cd dev/rust/
+cd alkan_render/
+npm run tauri dev
+npm run tauri build
+cp ~/rust-logo-128x128.png ./src-tauri/icons/128x128.png
+npm run tauri build
+ls
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/joee306/Alkan-Render.git
+git push -u origin main
+nvim .
+clear
+ls
+ls dist/
+npm run start
+npm run 
+npm run preview
+npm run tauri 
+ls
+ls a
+ls -a
+clear
+cd dev/rust/
+npm create vue@latest
+clear
+cargo install create-tauri-app --locked
+cargo create-tauri-app
+cd Roocbook/
+npm i
+clear
+cd dev/rust/Roocbook/
+npm run tauri dev
+nvim .
+cd ..
+cargo create-tauri-app
+ls
+rm -r Roocbook/
+clear
+ls
+rm -r Roocbook
+ls
+cd Rookbook/
+npm i
+cd 
+clear
+cd dev/rust/Rookbook/
+clear
+cd dev/rust/Rookbook/
+clear
+nvim .
+cd dev/rust/Rookbook/
+npm install -D tailwindcss; npx tailwindcss init
+npm run tauri dev
+clear
+npm run tauri dev
+cd dev/rust/
+clear
+cargo new tarot_game
+cargo add bevy
+cd tarot_game/
+cargo add bevy
+clear
+mkdir assets
+cd dev/rust/tarot_game/
+cargo run -r
+cargo add benimator
+cargo run -r
+nvim .
+cargo run -r
+Hyprland
+cd dev/rust/tarot_game/
+cargo run -r
+nvim 
+exit
+cd dev/rust/tarot_game/
+clear
+cargo run -r
+cd dev/rust/tarot_game/
+cargo run -r
+yt-dlp https://www.youtube.com/watch?v=AswXiy8JCsI -f mp3
+paru -S yt-dlp
+paru -Sy yt-dlp
+sudo pacman -Syyu
+sudo pacman -Syy
+sudo pacman -Syyu
+paru -Rns waybar-hyprland-cava-git
+cargo run -r
+sudo pacman -Syyu
+systemctl reload pulseaudio.service
+systemctl reload pulseaudio
+sudo pacman -S pipewire
+systemctl reload pipewire
+systemctl --user restart pipewire pipewire-pulse
+cargo run -r
+systemctl --user restart pipewire pipewire-pulse
+systemctl --user daemon-reload
+systemctl --user restart pipewire pipewire-pulse
+sudo pacman -S pulseaudio
+sudo pacman -S pipewire
+sudo pacman -Rns pipewire
+sudo pacman -Rns pulseaudio
+clear
+sudo pacman -Rns pulseaudio
+cargo run -r
+systemctl --user restart pipewire pipewire-pulse
+paru -S aseprite
+systemctl --user restart pipewire pipewire-pulse
+cargo run -r
+systemctl --user restart pipewire pipewire-pulse
+cargo run -r
+wlrrandr
+cargo run -r
+systemctl --user restart pipewire pipewire-pulse
+waybar 
+systemctl --user restart pipewire pipewire-pulse
+sudo pacman -S pulseaudio
+systemctl --user restart pipewire pipewire-pulse
+sudo pacman -S pulseaudio
+sudo pacman -S pipewire
+systemctl --user start pipewire pipewire-pulse
+systemctl --user enable pipewire pipewire-pulse
+paru -S waybar-hyprland
+sudo pacman -S pulseaudio-alsa 
+Hyprland
+systemctl --user enable pipewire pipewire-pulse
+systemctl enable pipewire pipewire-pulse
+sudo pacman -S pulseaudio
+paru -S paman
+Hyprland
+paru -S waybar-hyprland
+waybar 
+cd dev/rust/
+mkdir alkan-ship
+cargo install cargo-shuttle
+cargo shuttle init
+cargo shuttle -h
+cargo shuttle login
+cargo shuttle generate
+cargo shuttle status
+ls
+ls src/main.rs
+rm -r src/
+rm Cargo.lock
+rm Cargo.toml
+clear
+ls
+cd alkan-ship/
+ls
+cargo shuttle init
+cd dev/rust/alkan-ship/
+cargo shuttle run
+Hyprland
+ls
+brave EF.png
+rm EF.png
+clear
+ls
+cd dev/rust/
+cargo run -r
+cd tarot_game/
+cargo run -r
+cd dev/rust/tarot_game/
+cargo run -r
+waybar 
+cargo run -r
+waybar 
+clear
+cargo run -r
+paru -S hyprshot
+hyprshot 
+hyprshot -o Pictures/ -f screenshot.png -m region
+ls
+hyprshot -m window
+chmod +x Hyprshot/hyprshot
+hyprshot -m output --clipboard-only
+hyprshot -f screenshot.png -m region --clipboard-only
+clear
+exit
+cd dev/rust/tarot_game/
+cargo run -r
+clear
+cargo run -r
+clear ; cargo run -r 
+clear
+clear ; cargo run -r 
+nvim 
+cd dev/rust/tarot_game/
+cargo run -r
+clear
+ls
+cd ..
+cd alkan_render/
+cargo run -r
+ls
+npm run tauri dev
+cd dev/rust/tarot_game/
+cat src/main.rs
+sh
+git init
+git add .
+ls
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/joee306/tarot-game.git
+git push -u origin main
+exit
+cd dev/rust/
+ls
+clear
+ls
+rm alkan-ship/
+rm -r alkan-ship/
+alkan_render/
+cd alkan_render/
+ls
+npm run tauri dev
+cd dev/rust/
+cargo new alkan-ship
+cp alkan_render/src-tauri/src/* alkan-ship/src/
+cd alkan-ship/
+cargo add anyhow
+cargo add actix
+cargo add actix_web
+cargo add tectonic
+cd dev/rust/alkan-ship/
+cargo add actix_files
+cargo install cargo-watch
+cargo watch -x run
+clear
+http get localhost:8080/to_pdf/octan
+http get 127.0.0.1:8080/to_pdf/octan
+http get http://127.0.0.1:8080/to_pdf/octan
+http get http://127.0.0.1:8080/to_pdf/octan | save octan.pdf
+brave octan.pdf
+clear
+ls
+clear
+http get http://127.0.0.1:8080/to_pdf/octan
+nvim .
+nvim s
+http get http://127.0.0.1:8080/to_chemfig/octan
+nvim 
+npm create astro@latest
+npm run dev
+cd whole-wind/
+ls
+npm run dev
+cd dev/rust/alkan-ship/
+cd whole-wind/
+nvim .
+nvim 
+cat dev/rust/alkan_render/src/lib/Render.svelte
+npm run dev
+npm install svelte-pdf
+http get http://127.0.0.1:8080/to_chemfig/octa
+npm run dev
+npm run build
+npm run dev
+ls
+npm run dev
+npm install @astrojs/svelte
+npm run dev
+npm i
+npm run dev
+npm install svelte-pdf
+npm run dev
+npm run build
+ls
+ls dist/
+ls dist/pages/
+ls dist/chunks/
+ls dist/chunks/pages/
+clear
+ls dist/pages/
+npm run build
+npm install --save-dev pdfjs-dist
+npm run build
+npm run dev
+npm run build
+ls dist/
+brave index.html
+http get http://127.0.0.1:8080/
+cp dist/ ..
+cp -r dist/ ..
+clear
+ls dist/
+clear
+http get http://127.0.0.1:8080/
+cat dev/rust/alkan_render/src/lib/Render.svelte
+cat dev/rust/alkan_render/src/styles.css
+clear
+npm run dev
+npm install pdfjs
+rustc -v
+rustc --version
+cargo -v
+cargo --version
+cd dev/rust/alkan-ship/
+npm install svelte-pdf
+ls
+clear
+cd whole-wind/
+npm install svelte-pdf
+cd whole-wind/
+cd
+clear
+npm run dev
+npm run build
+cd dev/rust/alkan-ship/
+cd whole-wind/
+npm i pdfmake
+cd dev/rust/alkan-ship/
+cd whole-wind/
+npm install --save-dev pdfjs-dist
+pn i pdfjs
+npm i pdfjs
+npm install --save-dev pdfjs-dist
+clear
+npm run build
+npm run dev
+npm run build
+cd dev/rust/alkan-ship/
+cd whole-wind/
+npm create astro@latest
+cd nuclear-nebula/
+npm i
+clear
+npm run dev
+nbim 
+cd nuclear-nebula/
+npm run dev
+npm install @astrojs/svelte
+npm run dev
+cd ..
+rm -r nuclear-nebula/
+nvim 
+clear
+ls
+cd
+clear
+npm run build
+cd dev/rust/tarot_game/
+cargo run -r
+cat Cargo.toml
+cargo run -r
+ls
+ls ..
+clear
+npm run build
+cargo watch -x run
+npm run dev
+sudo vim /opt/discord/resources/build_info.json
+sudo nvim /opt/discord/resources/build_info.json
+ps 
+clear
+xzcat 
+cd Downloads/
+ls
+ks
+ls
+clear
+ls
+tar --use-compress-program=unzstd -xvf docker-desktop-4.23.0-x86_64.pkg.tar.zst
+ls
+ls opt/
+ls usr/
+ls /usr/
+ls opt
+ls /opt
+cp -h
+cp -R opt/docker-desktop /opt/
+cp -R opt/docker-desktop/ /opt/
+cp -r opt/docker-desktop/ /opt/
+sudo cp -r opt/docker-desktop/ /opt/
+ls opt
+ls /opt
+ls
+clear
+ls
+ls usr/
+ls /usr/
+sudo cp -r usr/* /usr/
+ls usr/
+ls /usr/
+docker 
+clear
+ls
+clearl
+clear
+ls
+tar xzvf docker-17.03.0-ce.tgz
+ls
+clear
+sudo cp docker/* /usr/bin/
+sudo dockerd &
+sudo dockerd 
+docker -v
+docker --version
+docker info
+clear
+sudo pacman -S docker
+sudo pacman -Sy docker
+sudo pacman -R docker
+sudo rm  -r /usr/bin/docker
+sudo rm  -r /usr/bin/docker-proxy
+sudo rm  -r /usr/bin/docker-init
+clear
+sudo pacman -Sy docker
+sudo rm  -r /usr/bin/dockerd
+sudo pacman -Sy docker
+clear
+sudo pacman -R docker
+sudo pacman -Rns docker
+sh LC_ALL=C lscpu | grep Virt
+sh "LC_ALL=C lscpu | grep Virt"
+sh
+clear
+zgrep CONFIG_KVM /proc/config.gz
+sudo systemctl status libvirtd.service
+sudo systemctl enable libvirtd.service
+sudo pacman -S virt-manager qemu vde2 ebtablesdnsmasq bridge-utils openbsd-netcat
+sudo pacman -S virt-manager qemu vde2 ebtables dnsmasq bridge-utils openbsd-netcat
+sudo systemctl enable libvirtd.service
+sudo systemctl status libvirtd.service
+sudo systemctl start libvirtd.service
+sudo systemctl status libvirtd.service
+sudo vim /etc/libvirt/libvirt.conf
+sudo nvim /etc/libvirt/libvirt.conf
+sudo nvim /etc/libvirt/libvirtd.conf
+sudo usermod -a -G libvirt  joe
+whoami 
+sudo systemctl restart libvirtd.service
+ls ~/.config/hypr/hyprland.conf
+cat ~/.config/hypr/hyprland.conf
+sudo pacman -S polkit-gnome
+sudo modprobe -r kvm intel
+sudo modprobe -r kvm_intel
+sudo modprobe -r kvm_intel nested=1
+qemu-io --version
+clear
+ls
+modprobe kvm
+modprobe kvm_amd
+lsmod | greep kvm
+lsmod | grep kvm
+clear
+sudo pacman -S gnome-terminal
+waybar &
+docker 
+docker --version
+ls /bin
+ls /bin | grep docker
+clear
+sudo pacman -Rsu docker
+cd Downloads/
+clear
+ls
+rm docker-17.03.0-ce.tgz
+tar xzvf docker-24.0.6.tgz
+sudo cp docker/* /usr/bin/
+docker 
+clear
+ls /usr/bin/docker
+/usr/bin/docker
+clear
+docker 
+ls /usr/bin/docker
+/usr/bin/docker
+sudo docerd &
+sudo dockerd &
+sudo dockerd -- &
+sudo docker run hello-world
+ls /
+ls /opt/
+ls /opt/containerd/
+sudo ls /opt/containerd/
+sudo ls /opt/containerd/bin
+sudo ls /opt/containerd/li
+sudo ls /opt/containerd/lin
+sudo ls /opt/containerd/lib
+clear
+sudo docker run hello-world
+curl -L https://raw.githubusercontent.com/docker/compose-cli/main/scripts/install/install_linux.sh | sh
+sudo curl -L https://raw.githubusercontent.com/docker/compose-cli/main/scripts/install/install_linux.sh | sh
+sudo docker run hello-world
+sudo dockerd
+docker run -it ubuntu bash
+sudo docker run -it ubuntu bash
+docker run -it ubuntu
+sudo docker run -it ubuntu
+docker build
+cd dev/rust/alkan-ship/
+ls
+clear
+cd ..
+cargo new docker-test
+cd docker-test/
+cargo run
+nvim Dockerfile
+docker build -t docker-test
+docker build -t docker-test .
+sudo docker build -t docker-test .
+docker pull rust
+sudo docker pull rust
+sudo docker build -t docker-test .
+docker image ls
+sudo docker image ls
+nvim Dockerfile
+sudo docker build -t docker-test .
+ls
+sudo docker run docker-test
+cp Dockerfile ../alkan-ship/
+cd ..
+cd alkan-ship/
+clear
+cargo run -r
+cargo build --release
+clear
+cargo build --release
+nvim Dockerfile
+docker build -t docker-alkan-ship .
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+docker pull archlinux
+sudop docker pull archlinux
+sudo docker pull archlinux
+sudo docker pull archlinux:slim
+sudo docker pull archlinux/archlinux:slim
+clear
+curl https://get.modular.com | \
+clear
+curl https://get.modular.com
+ls
+sh
+curl -sSL https://gist.github.com/Sharktheone/79da849c96db13f21eefa2be9430d9ec/raw/install-libs.sh | sh
+curl -sSL https://gist.github.com/Sharktheone/79da849c96db13f21eefa2be9430d9ec/raw/install.sh | sh
+clear
+curl -sSL https://gist.github.com/Sharktheone/79da849c96db13f21eefa2be9430d9ec/raw/install-percistent.sh | sh
+rm /tmp/mojo-arch/
+rm -r /tmp/mojo-arch/
+curl -sSL https://gist.github.com/Sharktheone/79da849c96db13f21eefa2be9430d9ec/raw/install-percistent.sh | sh
+mojo
+clear
+curl -sSL https://gist.github.com/Sharktheone/79da849c96db13f21eefa2be9430d9ec/raw/install-percistent.sh
+clear
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+sudo docker pull archlinux
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+docker pull dxjoke/tectonic-docker
+sudo docker pull dxjoke/tectonic-docker
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+mv Dockerfile Dockerfile.old
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+clear
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+lscpu 
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+hostnamectl 
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+hostnamectl 
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+clear
+cd dev/rust/tarot_game/
+cargo build --release
+cd dev/rust/tarot_game/
+clear
+cargo build --release
+cargo run --release
+cargo run --release | grep "Col"
+cargo run --release
+docker pull dxjoke/tectonic-docker
+clear
+cargo run --release
+clear
+cargo run --release
+nvim .
+exit
+Hyprland
+QQQQQ
+cd dev/rust/alkan-ship/
+ls
+clear
+rm Dockerfile.old
+mv Dockerfile Dockerfile.old
+nvim Dockerfile
+docker build -t docker-alkan-ship .
+sudo docker build -t docker-alkan-ship .
+sudo docker pull archlinux:base
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+docker ps
+sudo docker ps
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+sudo groupadd docker
+sudo usermod -aG docker joe
+docker run hello-world
+clear
+sudo docker run hello-world
+clear
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+pkg-config --version
+pkgconf 
+pkgconf --version
+nvim Dockerfile
+sudo docker build -t docker-alkan-ship .
+Hyprland
+cd dev/rust/tarot_game/
+nvim .git/
+cd dev/rust/tarot_game/
+cargo run --release
+nvim .
+clea
+clear
+cargo run --release
+nvim .
+clear
+cargo run --release
+./target/release/tarot_game
+clear
+btop
+cd dev/rust/tarot_game/
+cd ..
+ls
+cargo new testing
+cd testing/
+cargo add serde
+cargo add toml
+nvim .
+cd dev/rust/testing/
+cd dev/rust/tarot_game/
+cargo run --release
+clear
+systemctl restart pipewire pipewire-pulse
+systemctl start pipewire pipewire-pulse
+btop
+Hyprland
+nvim .
+clear
+cd dev/rust/tarot_game/
+nvim .
+cd dev/rust/tarot_game/
+cargo run --release
+clear
+cd ..
+cargo new tarot_saga
+cd tarot_saga/
+cd dev/rust/tarot_saga/
+cargo run --release
+nvim .
+cargo run --release
+1
+clear
+cargo run --release
+killall gimp
+btop
+clear
+btop
+btop
+clea
+clear
+cargo run --release
+clear
+cd dev/rust/tarot_saga/
+cd ..
+cd tarot_game/
+ls
+cat src/
+cat src/main.rs
+clear
+cat src/main.rs
+cat src/main.rs
+cp assets/ ../tarot_saga/
+cp -r assets/ ../tarot_saga/
+cargo run --release
+250 * 250 * 250
+cargo run --release
+90 | math sqrt 
+clea
+3 / 9.486832980505138
+9 / 9.486832980505138
+(9 / 9.486832980505138) | math arccos 
+((9 / 9.486832980505138) | math arccos ) * 1801 / 1 | math pi
+((9 / 9.486832980505138) | math arccos ) * 180 / 1 | math pi
+((9 / 9.486832980505138) | math arccos )
+50 | math cos
+0.964 | math arccos
+0.9649660284921133 | math arccos
+cargo run --release
+clear
+cd ..
+cargo run --release
+cd tarot_saga/
+cargo run --release
+cd tarot_saga/
+cargo run --release
+cd tarot_saga/
+cargo run --release
+cargo add bevy_pixel_perfect
+cargo add bevy_pixel_camera
+cargo run --release
+nvim .
+cargo add bevy_sprite3d
+cargo run --release
+ls
+cargo run --release
+1
+cargo run --release
+cd dev/gits/
+git clone https://github.com/FraserLee/bevy_sprite3d.git
+cd bevy_sprite3d/
+cd dev/rust/rvengine/
+cargo run --example dungeon
+cargo run --release
+./target/release/rvengine
+./target/release/rvengine 500
+clear
+grim
+ls
+brave `20230923_00h09m53s_grim.png`
+cd dev/rust/rvengine/
+grim
+brave `20230923_00h11m12s_grim.png`
+./target/release/rvengine 500
+btop
+cd dev/rust/tarot_saga/
+cargo run --example dungeon
+cargo run --example sprite
+cargo run --example sprite_sheet
+clear
+cargo run --release
+cargo add rand
+nvim .
+cp dev/gits/bevy_sprite3d/assets/dungeon/ dev/rust/tarot_saga/assets/
+cp -r dev/gits/bevy_sprite3d/assets/dungeon/ dev/rust/tarot_saga/assets/
+cargo run --release
+cat src/main.rs
+cd examples/
+cargo run --release
+paru -S blockbench
+cat dungeon.rs
+cd dev/rust/tarot_saga/
+cargo run --release
+clear
+cargo run --release
+Hyprland
+hyprshot -f screenshot.png -m region --clipboard-only
+cd dev/rust/tarot_saga/
+cargo run --release
+250 * 250 * 250
+clear
+cargo run --release
+nvim .
+cd dev/rust/tarot_saga/
+cargo run --release
+Hyprland
+clear
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+nvim .
+clear
+cargo run --release
+cd dev/gits/
+ls
+clear
+git clone https://github.com/dimforge/bevy_rapier.git
+cd bevy_rapier/
+cd bevy_rapier3d/
+cargo run --example boxes3
+Hyprland
+cd dev/gits/
+cd bevy_rapier/
+cargo run --example 
+cargo run --example despawn3
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo run --example ray_casting3
+cargo run --example 
+clear
+cargo run --example ray_casting3
+cargo run --example multiple_colliders3
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo run --example joint3
+cargo run --example joints3
+cd dev/rust/tarot_saga/
+clear
+cargo run --release
+clear
+cargo run --release
+1
+cargo run --release
+1
+cargo run --release
+1
+clear
+cargo run --release
+clear
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cd dev/gits/bevy_rapier/bevy_rapier3d/
+cargo run --example keva3
+ls
+cargo run --example contact_filter3
+cargo run --release
+1
+cargo run --release
+cd assets/
+paru -S unzip
+clear
+ls
+rm valla_walking_2.png
+rm valla_walking_4.png
+rm valla_walking_3.png
+rm valla_walking_1.png
+clear
+ls
+unzip valla_walking-split.zip
+clear
+ls
+mv imageonline/* .
+clear
+ls
+clear
+ls
+nvim .
+cd ..
+cargo run --release
+clear
+Hyprland
+grim
+ls
+rm `20230925_20h47m40s_grim.png`
+rm `20230923_00h11m12s_grim.png`
+hyprrshot -h
+hyprshot -h
+hyprshot region
+hyprshot -m region
+ls
+brave `2023-09-25-204855_hyprshot.png`
+cd dev/rust/alkan-ship/
+http get http://127.0.0.1:8080/
+clear
+cargo run --release
+clear
+ls target/release/alkan-ship
+target/release/alkan-ship
+сдуфк
+clear
+mkdir alkan-ship-server
+cp -r target/release/alkan-ship ~/alkan-ship-server/
+ls
+cd alkan-ship-server/
+clear
+cd dev/rust/alkan-ship/
+cp whole-wind/ ~/alkan-ship-server/
+cp -r whole-wind/ ~/alkan-ship-server/
+clear
+./alkan-ship
+clear
+cd dev/rust/alkan-ship/
+npm run build
+npm i
+clea
+cd whole-wind/
+clear
+npm run build
+clear
+cp -r whole-wind/ ~/alkan-ship-server/
+cd ..
+cp -r whole-wind/ ~/alkan-ship-server/
+clear
+./alkan-ship
+clear
+nvim .
+exit
+swww inti
+swww init
+clear
+cat ~/.config/hypr/hyprland.conf
+exec-once = sleep 0.2; swww img -o HDMI-A-1 /home/joe/Pictures/wallpaper/WaterResidue.jpg; exec-once = sleep 0.2; swww img -o DVI-D-1 /home/joe/Pictures/wallpaper/felix.png
+swww img -o HDMI-A-1 /home/joe/Pictures/wallpaper/WaterResidue.jpg;swww img -o DVI-D-1 /home/joe/Pictures/wallpaper/felix.png
+clear
+exit
+nvim Dockerfile
+sudo docker build -t alkan-ship .
+clear
+ls
+mv Dockerfile
+mv Dockerfile alkan-ship-server/
+cd alkan-ship-server/
+Dockerfile
+clear
+sudo docker build -t alkan-ship .
+sudo docker run -it alkan-ship
+nvim Dockerfile
+sudo docker build -t alkan-ship .
+nvim Dockerfile
+sudo docker build -t alkan-ship .
+nvim Dockerfile
+sudo docker build -t alkan-ship .
+curl -L https://fly.io/install.sh | sh
+/home/joe/.fly/bin/flyctl
+/home/joe/.fly/bin/flyctl launch
+/home/joe/.fly/bin/flyctl auth login
+/home/joe/.fly/bin/flyctl launch
+clear
+sudo dockerd
+pow
+Hyprland
+sudo pacman -Syyu
+cd dev/rust/tarot_saga/
+clear
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+nvim .
+clear
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/gits/bevy_rapier/bevy_rapier3d/examples/
+cargo run --example 
+cargo run --example boxes3
+cargo run --example custom_system_setup3
+cargo run --example events3
+cargo run --example multiple_colliders3
+cargo run --example ray_casting3
+cat custom_system_setup3.rs
+cargo run --example 
+cargo run --release
+clear
+cargo run --release
+clear
+cargo run --release
+clear
+cargo run --release
+1
+cargo run --release
+clear
+sudo pacman -S obs-studio
+cargo run --release
+cd
+ls
+clear
+ls
+brave `2023-10-08 15-47-24.mkv`
+clear
+cargo run --release
+ls
+brave `2023-10-08 15-49-23.mp4`
+clear
+rm `2023-10-08 15-49-23.mp4`
+cargo run --release
+brave `2023-10-08 15-49-23.mp4`
+brave `2023-10-08 15-50-57.mp4`
+Hyprland
+cd dev/rust/tarot_saga/
+nvim .
+cargo run --release
+1
+clear
+cargo run --release
+ping youtube.com
+systemctl start pipewire pipewire-pulse
+systemctl start pipewire 
+systemctl restart pipewire 
+systemctl restart pulseaudio
+clear
+systemctl restart pipewire 
+sudo pacman -S pipewire
+systemctl star pulseaudio
+systemctl starr pipewire
+systemctl start pipewire
+sudo systemctl start pipewire
+sudo systemctl enable pipewire
+clear
+sudo 
+clear
+su
+Hyprland
+sudo systemctl enable pipewire
+exiz
+exit
+Hyprland
+cd dev/rust/tarot_saga/
+clear
+cd dev/rust/tarot_saga/
+cargo run --release
+cp /dev/fb0 .
+ls
+cp /dev/fb0 .
+ls
+cp /dev/fb0 ~/Pictures/
+CD Pictures/
+cd Pictures/
+ls
+clear
+ls
+cat /dev/fb0
+sudo cp /dev/fb0 ~/Pictures/
+fb0
+brave fb0
+ckear
+clear
+cat /dev/urandom > /dev/fb0
+sudo cat /dev/urandom > /dev/fb0
+ls /dev/
+sh
+clear
+cargo run --release
+Hyprland
+cd dev/rust/tarot_saga/
+cargo run --release
+1
+clear
+cargo run --release
+clear
+cargo run --release
+clear
+cargo run --release
+1
+cargo run --release
+1
+cargo run --release
+time
+clock
+date
+> date
+cöear
+datenow
+date now
+cd Downloads/
+cd assets/
+unzip FabConvert.com_81ysk2.zip
+ls
+mv FabConvert.com_81ysk2.glb valla.glb
+mv -f FabConvert.com_81ysk2.glb valla.glb
+cd ..
+cargo run --release
+clear
+sudo pacman -S blender
+cd dev/rust/tarot_saga/
+clear
+cargo run --release
+clear
+cargo run --release
+cd dev/gits/bevy
+cd dev/gits/
+git clone https://github.com/bevyengine/bevy.git
+cd bevyengine; cargo run --example  
+cd bevy/; cargo run --example  
+cd bevy/; cargo run --example transparency3d
+cargo run --example transparency3d
+cargo run --example transparency_3d
+cargo run --example  
+cargo run --example lights3d
+cargo run --example lighting3d
+cargo run --example lighting
+cp /dev/fb0 ~/Pictures/
+ls ~/Pictures/
+ls
+ls ~/Pictures/
+clear
+ls ~/Pictures/
+cat /dev/urandom > /dev/fb0
+sudo cat /dev/urandom > /dev/fb0
+sudo cat /dev/urandom >> /dev/fb0
+clear
+exit
+clear
+exit
+cd dev/gits/
+cd ..
+cd rust/tarot_saga/
+cargo run --example lighting
+cargo run --release
+nvim .
+clear
+git init
+git add .
+clear
+ls 
+rm `20230923_00h09m53s_grim.png`
+ls -a
+echo "/target" > .gitnore
+ls
+ls -a
+echo /target > .gitnore
+sh echo /target > .gitnore
+sh 
+sh echo /target | save .gitnore
+echo /target | save .gitnore
+ls -a
+ls .gitnore
+cat .gitnore
+clear
+echo /target | save -f .gitnore
+cat .gitnore
+clear
+clear
+ls assets/
+ls ..
+ls
+git add .
+git add src/
+git add assets/
+git add Cargo.lock
+git add Cargo.toml
+clear
+git commit -m "overwrite for 3d"
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/joee306/tarot-game.git
+git push -u origin main
+git pull
+ls
+git push -u origin main
+clear
+cd ..
+rm -r tarot_game/
+clear
+git push -u origin main
+git push -f origin main
+Hyprland
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo add serde --features derive
+cargo add serde_json
+nvim .
+clear
+ls
+cd story/
+nvim test.json
+clear
+cargo run --release
+nvim test.json
+clear
+cargo run --release
+clear
+cd ..
+clear
+cargo new sovet
+cd sovet/
+clear
+cargo install create-tauri-app --locked
+clear
+cd ..
+rm -r sovet/
+cargo install create-tauri-app --locked
+cargo create-tauri-app
+cargo install tauri.cli#
+cd ..
+cd sovet/
+ls
+nvim src/
+cd dev/rust/sovet/
+cargo add walkdir home
+clear
+cargo install trunk
+rustup target add wasm32-unknown-unknown
+nvim .
+nvim 
+cargo install tauri-cli
+cd sovet/
+clear
+exit
+cargo tauri dev
+nvim .config/hypr/hyprland.conf
+hyprctl reload
+cat .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+cat .config/hypr/hyprland.conf
+exec-once = wlr-randr --output HDMI-A-1 --pos 3840,0
+wlr-randr --output HDMI-A-1 --pos 3840,0
+clear
+exit
+cd dev/rust/sovet/
+cargo tauri dev
+sudo cargo tauri dev
+cargo tauri dev
+cd dev/rust/
+cd ..
+rm sovet/ sfsfd
+mv sovet/ sfsfd
+cargo create-tauri-app
+cd sovet/
+paru bun
+paru bun-bin
+cp sfsfd/src-tauri/* sovet/src-tauri/
+cp -r sfsfd/src-tauri/* sovet/src-tauri/
+clear
+clear
+bun install
+cd dev/rust/sovet/
+cargo tauri dev
+cargo create-tauri-app
+cd dev/
+cargo create-tauri-app
+rm `3/`
+rm -r `3/`
+bun run tauri dev
+trunk
+clea
+cargo install trunk
+trunk
+~/.cargo/bin/trunk
+cargo install trunk --locked
+cargo install trunk --locked --force
+bun run tauri dev
+trunk
+cargo install trunk --root
+sudo cargo install trunk --root /bin/
+cargo install trunk --root /bin/
+su
+clear
+sudo cp ~/.cargo/bin/trunk /bin/
+trunk 
+clear
+bun run tauri dev
+trunk server
+trunk serve
+clear
+cd dev/
+cargo create-tauri-app
+cp `3/src-tauri/tauri.conf.json` rust/sovet/src-tauri/
+cd rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+alacritty -e 
+alacritty 
+alacritty dev/rust/sovet/
+alacritty -e dev/rust/sovet/
+alacritty -e cd dev/rust/sovet/
+alacritty -e cd ~/dev/rust/sovet/
+alacritty -e ~/dev/rust/sovet/
+alacritty -e nvim
+alacritty -e cd
+alacritty -e cd .
+alacritty -e cd dev/
+alacritty -e cd Pictures/
+clear
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+cd dev/rust/sovet/
+bun run tauri dev
+nvim .
+sudo pacman -S mc
+mc
+clear
+sudo pacman -Rns mc
+sudo pacman -S vimf
+sudo pacman -S vifm
+vifm 
+clear
+vifm
+ls .config/
+rm .config/vifm/
+clear
+rm -r .config/vifm/
+vifm
+rm -r .config/vifm/
+vifm
+exit
+vifm
+clear
+exit
+vifm
+vim
+nvim .
+clea
+clear
+ping junker-group.com
+ping junker-group.com/de
+ping https://www.junker-group.com/de
+ping https://www.junker-group.com
+http get https://www.junker-group.com/de
+mkdir pentest
+cd pentest/
+http get https://www.junker-group.com/de | save junker.html
+brave junker.html
+Hyprland
+-(((3 * 17) - (10 * 19)) ** 2)
+-(((3 * 17) - (10 * 19)) ** 2) - (17 + 8) * (17 - 8) - ((19 - (4 * 17)) ** 2)
+(0 - (((3 * 17) - (10 * 19)) ** 2)) - (17 + 8) * (17 - 8) - ((19 - (4 * 17)) ** 2)
+(0 - 26) * (17 ** 2) + 68 * 17 * 19 - 100 * (17 ** 2) + 64
+(0 - 26) * (17 ** 2) + (68 * 17 * 19) - (100 * (17 ** 2)) + 64
+Hyprland
+cd dev/rust/tarot_saga/
+ös
+ls
+clear
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+clear
+cargo run --release
+1
+cargo run --release
+d www
+clear
+cargo run --release
+clear
+cargo run --release
+nvim .
+git add .
+git commit -m "14.10.23"
+git push -f origin main
+popw
+Hyprland
+cd .config/hypr/
+nvim hyprland.conf
+exit
+paru -S brave-bin
+Hyprland
+systemctl start pipewire
+Hyprland
+sudo vim /opt/discord/resources/build_info.json
+sudo nvim /opt/discord/resources/build_info.json
+sudo pacman -S neofetch
+clear
+neofetch 
+cd dev/rust/tarot_saga/
+cd dev/rust/tarot_saga/
+cd 
+cd
+clear
+clear
+cd dev/rust/alkan-ship/
+docker 
+clear
+sudo dockerd
+clear
+nvim Dockerfile
+docker-compose
+docker compose
+docker compose up
+clear
+nvim docker-compose.yml
+docker build -t docker-alkan-ship .
+nvim Dockerfile
+docker build -t docker-alkan-ship .
+cargo run --release
+docker build -t docker-alkan-ship .
+cargo run --release
+docker build -t docker-alkan-ship .
+cargo build --release --help
+cargo build --release --target 
+cd dev/rust/alkan-ship/
+cargo build --release
+ls target/release
+docker build -t docker-alkan-ship .
+docker run docker-alkan-ship
+cd ..
+docker run docker-alkan-ship
+docker build -t docker-alkan-ship .
+cd alkan-ship/
+docker build -t docker-alkan-ship .
+docker run -it docker-alkan-ship
+cargo run --release
+ls
+rm *.pdf
+clear
+ls
+nvim Dockerfile
+Hyprland
+htop
+btop
+cd dev/rust/alkan-ship/
+cargo run --release
+clear
+cd dev/rust/alkan-ship/
+cd
+docker build -t docker-alkan-ship .
+docker run -it docker-alkan-ship
+docker run docker-alkan-ship
+clear
+cargo run --release
+docker build -t docker-alkan-ship .
+docker run docker-alkan-ship
+docker ps
+docker run docker-alkan-ship
+docker run -it docker-alkan-ship
+docker run -it docker-alkan-ship -p 8080:8080
+docker run -it docker-alkan-ship -p 8080
+clear
+docker run docker-alkan-ship 
+http get localhost:8080/to_pdf/octan
+http get 127.0.0.1:8080/to_pdf/octan
+cargo run --release
+docker run -it -p 8080:80 docker-alkan-ship 
+docker ps
+docker run -it -p 8080 docker-alkan-ship 
+clear
+docker ps
+http get 127.0.0.1:8080/tcp
+http get 127.0.0.1:8080/tcp/
+http get 127.0.0.1:8080/tcp/to_chemfig/octan
+clear
+docker run -it docker-alkan-ship 
+http get 127.0.0.1:8080/to_chemfig/octan
+docker ps
+git instaweb
+docker run -it -p 8080:8080 docker-alkan-ship 
+clear
+cd dev/rust/docker-test/
+ls
+cat src/main.rs
+cargo add actix_web
+nvim src/main.rs
+clear
+ls
+cd dev/rust/docker-test/
+cd ..
+cd alkan-ship/
+cat Dockerfile
+nvim Dockerfile
+nvim .
+exit
+docker build -t docker-test .
+cargo add actix_rt
+docker build -t docker-test .
+docker run -p 8080:8080 docker-test
+docker run -p 8080:8080 docker-alkan-ship 
+http get 127.0.0.1:8080/
+http get 127.0.0.1:8080
+http get 0.0.0.0:8080
+docker ps
+http get localhost:8080/tcp
+clear
+docker ps
+docker run -p 8080:8080 docker-alkan-ship 
+http get localhost:8080/health
+http get 127.0.0.1:8080/health
+curl localhost:8080/health
+docker run -p 8080:8080 docker-test
+nvim .
+docker build -t docker-test .
+docker run -p 8080:8080 docker-alkan-ship 
+docker run -p 8080:8080 docker-alkan-ship 
+curl localhost:8080/health
+nvim Dockerfile
+docker run -p 8080:8080 docker-alkan-ship 
+curl localhost:8080/health
+clear
+clear
+curl localhost:8080/health
+curl 127.0.0.1:8080/health
+docker run -p 8080:8080 docker-test
+cargo run --release
+curl http://127.0.0.1:8080/health
+clear
+cd dev/rust/docker-test/
+cargo run --release
+docker build -t docker-test .
+curl http://127.0.0.1:8080/health
+docker run -p 8080:8080 docker-test
+docker run -p 8080:8080 docker-alkan-ship 
+clear
+nvim .
+clear
+docker build -t docker-alkan-ship .
+nvim .
+docker run -p 8080:8080 docker-test
+docker run -p 8080:8080 docker-alkan-ship 
+docker build -t docker-alkan-ship .
+cargo run --release
+cd dev/rust/alkan-ship/
+cargo run --release
+cargo run --release
+docker build -t docker-alkan-ship .
+clear
+docker build -t docker-alkan-ship .
+Hyprland
+sudo systemctl restart pipewire
+sudo systemctl restart pulseaudio
+systemctl --user restart pulseaudio.service
+sudo pacman -S pulseaudio-alsa
+sudo pacman -Rns pipewire
+sudo pacman -Rns pipewire-alsa
+sudo pacman -Rns pipewire-jack
+sudo pacman -Rns pipewire-pulse
+sudo pacman -Rns pulseaudio
+sudo pacman -Rns pulseaudio-alsa
+sudo pacman -Rns pulseaudio
+sudo pacman -S pipewire-jack
+systemctl --user restart pipewire.service
+sudo pacman -S pipewire
+sudo pacman -S pipewire-alsa
+sudo pacman -Syy pipewire-alsa
+systemctl --user restart pipewire.service
+killall discord
+btop
+killall Discord
+sudo nvim /etc/openal/alsoft.conf
+nvim  ~/.alsoftrc
+systemctl --user restart pipewire.service
+sudo pacman -Rns pipewire-jack
+ls
+Hyprland
+sudo pacman -S pipewire-pulse
+sudo pacman -S pipewire-media-session
+sudo pacman -S wireplumber
+exit
+sudo pacman -S pipewire-jack
+sudo pacman -S alsa-utils
+amixer 
+systemctl --user restart wireplumber pipewire pipewire-pulse
+systemctl --user daemon-reload
+systemctl --user status wireplumber pipewire pipewire-pulse
+sudo fuser -v /dev/snd/*
+killall Discord
+cd Documents/
+cd ..
+ls
+cd Downloads/
+ls
+java --jar OptiFine_1.20.1_HD_U_I5.jar
+java -jar OptiFine_1.20.1_HD_U_I5.jar
+cd Downloads/
+java -jar OptiFine_1.20.1_HD_U_I5.jar
+cd Downloads/
+java -jar OptiFine_1.20.1_HD_U_I5.jar
+Hyprland
+ping 7.tcp.eu.ngrok.io:19115
+ping 7.tcp.eu.ngrok.io
+Hyprland
+267 / 8
+168 / 8
+ping 7.tcp.eu.ngrok.io
+ping https://www.junker-group.com
+Hyprland
+QQQQQ
+qemu-io --version
+sudo nvim /opt/discord/resources/build_info.json
+Hyprland
+QQQQQ
+Hyprland
+cd tikzjax/
+mkdir tikzjax
+cd tikzjax/
+git clone https://github.com/drgrice1/tikzjax
+git branch 
+ls
+cd tikzjax/
+git branch 
+clear
+git switch ww-modifications
+cöear
+clear
+git branch 
+git clone https://github.com/drgrice1/web2js
+git switch ww-modifications
+cd web2js/
+git switch ww-modifications
+npm i
+sudo pacman -Sy texlive-core
+curl  https://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz 
+wget https://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz 
+zcat < install-tl-unx.tar.gz | tar xf -
+ls
+zcat < install-tl-unx.tar.gz | tar xf -
+clear
+cd ..
+cd 
+cd tikzjax/
+rm * 
+rm -r * 
+clear
+git clone https://github.com/artisticat1/obsidian-tikzjax.git
+nvim .
+cp obsidian-tikzjax/tikzjax.js .
+cp obsidian-tikzjax/main.ts .
+clear
+ls
+cd tikzjax/
+brave page.html
+clear
+exit
+nvim page.html
+cd tikzjax/
+cp obsidian-tikzjax/tikzjax.js .
+nvim .
+clear
+cd ..
+cd dev/
+ls
+cd web/
+ls
+npm create svelte@latest myapp<\n>cd myapp<\n>npm install<\n>npm run dev
+npm create svelte@latest alkan-ship
+cd alkan-ship/
+cd dev/web/alkan-ship/
+npm run dev
+npm i
+cp tikzjax/tikzjax.js dev/web/alkan-ship/src/lib/
+npm run build
+clear
+npm run dev
+nvim .
+nvim .config/hypr/hyprland.conf
+Hyprland
+cd dev/web/alkan-ship/
+cd dev/web/alkan-ship/
+npm run dev
+ping https://www.junker-group.com
+npm run dev
+exit
+nvim .
+nvim 
+(((210 - 270) ** 2) - (80 - 50) ** 2)
+(((210 - 270) ** 2) - (80 - 50) ** 2) | math sqrt
+((((210 - 270) ** 2) - (80 - 50) ** 2)) | math sqrt
+((((210 - 270) ** 2) - (50 - 80) ** 2)) | math sqrt
+cat dev/rust/alkan_render/src/main.ts
+cat dev/rust/alkan_render/src-tauri/src/main.rs
+exit
+Hyprland
+cd dev/web/alkan-ship/
+ls
+cd src/lib/
+clear
+node convert.ts
+bun convert.ts
+clear
+bun convert.ts
+node convert.ts
+clear
+bun convert.ts
+clear
+bun convert.ts
+Hyprland
+cd dev/web/alkan-ship/src/lib/
+bun convert.ts
+bun convert.ts 
+clear
+bun convert.ts 
+cd ..
+nvim .
+Hyprland
+cd dev/web/alkan-ship/src/lib/
+cd ..
+npm run dev
+cd dev/web/alkan-ship/
+sudo nvim /opt/discord/resources/build_info.json
+npm run dev
+npm i 
+cd dev/web/
+npm create svelte@latest alkan-shit
+cd alkan-shit/
+ls
+clear
+ls
+npm i 
+cd ..
+cp alkan-shit/svelte.config.js alkan-ship/
+nvim .
+clear
+cp alkan-shit/package.json alkan-ship/
+cp alkan-shit/tsconfig.json alkan-ship/
+cp alkan-shit/vite.config.ts alkan-ship/
+npm i
+clear
+npm run dev
+clear
+cd dev/web/alkan-shit/
+cp ../alkan-ship/src/ .
+cp -r ../alkan-ship/src/ .
+npm i
+npm run dev
+npm run dev
+clear
+npm run dev
+clear
+cd ..
+cd alkan-ship/
+clear
+nvim .
+clear
+npm run dev
+nvim .
+exit
+Hyprland
+sudo vim /opt/discord/resources/build_info.json
+sudo nvim /opt/discord/resources/build_info.json
+exit
+cd dev/web/alkan-shit/
+cd dev/web/alkan-ship/
+Hyprland
+cd dev/web/alkan-ship/
+npm run dev -- --opem
+nvim .
+exit
+npm run dev -- --open
+Hyprland
+cd dev/web/alkan-ship/
+nv
+nv.
+cd dev/web/alkan-ship/
+pav
+npm run dev -- --open
+npm run dev -h
+npm run dev --help
+ip a
+ip 
+ip address
+npm run dev --host 0.0.0.0
+npm run dev --host
+nvim .
+Hyprland
+cd dev/web/alkan-ship/
+npm run dev --host
+bun src/lib/convert.ts
+clear
+bun src/lib/convert.ts
+clear
+bun src/lib/convert.ts
+clear
+bun src/lib/convert.ts
+clear
+clear ; bun src/lib/convert.ts
+npm run dev --host
+npm run dev --host 0.0.0.0
+npm run dev --host
+npm run dev -- --host
+Hyprland
+nvim .config/
+hyprctl reload
+hyprctl reload -h
+cd dev/web/alkan-ship/
+nvim .config/
+hyprctl reload
+nvim .config/hypr/hyprland.conf
+:q
+exit
+wlr-randr --output HDMI-A-1 --pos 3840,0
+cat .config/hypr/hyprland.conf
+npm run dev -- --host
+clear
+git init alkan-ship
+git add .
+git config --global init.defaultBranch main
+git add .
+git init alkan-ship
+git add .
+ls
+ls -a
+cat .gitignore
+rm .gitignore
+git add .
+git init alkan-ship
+ls alkan-ship/
+rm alkan-ship/
+ls alkan-ship/ -a
+cd ..
+cp -r alkan-ship/ alkan-backup/
+mkdir alkan-backup ; cp -r alkan-ship/* alkan-backup/
+mkdir alkan-backup ; cp -r alkan-ship/src/ alkan-backup/
+mkdir alkan-backup ; cp -r alkan-ship/svelte.config.js alkan-backup/
+mkdir alkan-backup ; cp -r alkan-ship/tsconfig.json alkan-backup/
+clear
+cd alkan-ship/
+ls
+rm -r alkan-ship/
+git init .
+git add .
+git push -f origin main
+git commit -m "19.11.23"
+git remote add origin https://github.com/joee306/alkan-ship.git
+git push -f origin main
+cd dev/web/alkan-ship/
+nvim 
+cd dev/web/alkan-ship/
+npm run dev -- --host
+git add .
+git commit -m "20.11.23"
+git p
+git push -f origin main
+cd dev/web/alkan-ship/
+nvim 
+git commit -m "working version"
+git add .
+git commit -m "working version"
+git push -f origin main
+nvim 
+git add .
+cd dev/web/alkan-ship/
+cat src/routes/+page.svelte
+git commit -m "Update previos Alkan"
+git push -f origin main
+npm run dev -- --host --open
+swww -h
+swww kill
+swww init
+Hyprland
+nvim .config/hypr/hyprland.conf
+Hyprland
+2017 - 1979
+Hyprland
+ly
+paru -S ly
+ly
+git clone --recurse-submodules https://github.com/fairyglade/ly
+cd ly
+make
+make install installsystemd
+sudo make install installsystemd
+systemctl enable ly.service
+systemctl disable getty@tty2.service
+cd dev/web/alkan-ship/
+npm run dev -- --host --open
+git commit -m "Bugfix svg to low"
+git add .
+git commit -m "Bugfix svg to low"
+git push -f origin main
+nvim 
+ly
+nvim .config/
+swww init
+swww 
+swww kill
+swww init
+sudo nvim /etc/ly/config.ini
+Hyprland
+exit
+sudo pacman -S ly
+ly
+sudo nvim /etc/ly/config.ini
+sudo nvim /usr/share/wayland-sessions/
+Hyprland
+exit
+sudo nvim /usr/share/wayland-sessions/
+ly
+cat /etc/ly/wsetup.sh
+cat .bashrc
+nvim .bashrc
+sudo nvim /etc/ly/config.ini
+Hyprland
+exit
+nvim .config/alacritty/
+nvim .config/hypr/hyprland.conf
+swww init
+swww img -o DVI-D-1 Pictures/wallpaper/felix.png
+swww img -o DVI-D-1 Pictures/wallpaper/astolfo.png
+dunst
+paru -S swaybg
+swaybg -h
+swaybg -c red
+swaybg -c #334455
+nvim .config/hypr/hyprland.conf
+swaybg 
+cat .config/hypr/hyprland.conf
+swaybg -o DVI-D-1 -i /home/joe/Pictures/wallpaper/felix.png
+cat .config/hypr/hyprland.conf
+exec-once = swaybg -o HDMI-A-1 -i /home/joe/Pictures/wallpaper/astolfo.png
+paru -S hyprbar-hyprland
+paru hyprbar-hyprland
+paru waybar-hyprland
+waybar 
+killall waybar
+waybar 
+cd dev/web/alkan-ship/
+nvim .
+git add .
+cd dev/web/alkan-ship/
+nvim s
+git add .
+git commit -m "Bugfix OH group wrong side"
+git push -f origin main
+cd dev/web/alkan-ship/
+npm run dev -- --host --open
+clear
+git add .
+git commit -m "Bugfix make OH to HO(makes more sense) and sides were to short"
+git push -f origin main
+cd dev/web/alkan-ship/
+nvim s
+nvim 
+git add .
+git commit -m "fixing previous Bugfix"
+git push -f origin main
+npm run dev -- --open
+sudo nvim /opt/discord/resources/build_info.json
+waybar 
+cat .config/hypr/hyprland.conf
+LANG=C; waybar
+exit
+cd dev/rust/tarot_saga/
+clear
+ls
+cd ../tarot_saga/
+clear
+cargo run --release
+cd dev/rust/tarot_saga/
+nvim .
+cargo run --release
+poweroff 
+sudo nvim /opt/discord/resources/build_info.json
+cd dev/rust/
+nvim .
+cargo new suro
+cd suro/
+cd dev/rust/suro/
+cargo run --release
+8 / 3 
+9 / 3 
+0 / 3 
+3 / 3 
+0 / 3 
+1 / 3 
+2 / 3 
+3 / 3 
+4 / 3 
+clear
+cd dev/rust/suro/
+cargo run --release
+cd dev/rust/suro/
+cargo run --release
+cd dev/rust/suro/
+cargo run --release
+1 / 3 
+cargo run --release
+0 / 3 * 3
+0 / 3
+1 / 3
+2 / 3
+cargo run --release
+Schweinefilet mit Spätzle<\n>4,90 €<\n>und Kaisergemüse<\n>A, C, G<\n><\n>Großer Salatteller<\n>3,90 €<\n>mit Brot<\n>A<\n><\n>Großer Salatteller mit Thunfisch und Ei<\n>4,90 €<\n>mit Brot<\n>A, C<\n><\n>Großer Salatteller mit Hähnchenstreifen<\n>4,90 €<\n>mit Brot<\n>A<\n><\n>Großer Salatteller mit Käse und Schinken<\n>4,90 €<\n>mit Brot<\n>A, G<\n><\n>Vegane Minestrone<\n>3,90 €<\n>mit Brot<\n>A<\n><\n>Minestrone<\n>3,90 €<\n>mit Brot<\n>A<\n><\n>nur Spätzle<\n>3,00 €<\n>A, C, G<\n><\n>Nudeln mit Soße<\n>3,00 €<\n>A<\n><\n>Schweinefilet - Takeaway<\n>4,90 €<\n>A, C, G<\n><\n>Minestrone - Takeaway<\n>3,90 €<\n>Großer Salatteller "Takeaway"<\n>3,90 €<\n>Großer Salatteller mit Hähnchen "Takeaway"<\n>4,90 €<\n>Großer Salatteller mit Thunfisch und Ei "Takeaway"<\n>4,90 €<\n>C<\n><\n>Großer Salatteller mit Schinken und Käse "Takeaway"<\n>4,90 €<\n>G<\n><\n>Rahmschnitzel mit Pommes frites
+clear
+cargo run --release
+clear
+cd dev/rust/tarot_saga/
+cd ..
+clear
+cargo new trtsga
+cd trtsga/
+cargo add bevy
+clear
+cargo add parry3d
+cd dev/rust/trtsga/
+cargo r -r
+sudo pacman -Syyu
+sudo pacman -Syy
+sudo pacman -u
+sudo pacman -Su
+sudo pacman -Rns jre-openjdk-headless
+sudo pacman -R jre-openjdk-headless
+sudo pacman -Rns jre-openjdk
+cargo r -r
+nvim .
+clear
+nvim 
+cd ..
+cd tarot_saga/
+clear
+sudo pacman -Syyu
+sudo pacman -S ntpd
+timedatectl set-ntp true
+clear
+sudo pacman -Syyu
+hwclock -w
+sudo pacman -Syyu
+nvim .
+cd ..
+cd trtsga/
+sudo pacman -Syu
+sudo pacman -S ntp
+ntpd -gg
+ntpd -qg
+hwclock -w
+hwclock -w --verbose
+sudo hwclock -w
+date
+clear
+date
+date humanize
+date now
+rm /var/cache/pacman/pkg/*
+sudo rm /var/cache/pacman/pkg/*
+sudo rm /etc/pacman.d/gnupg
+sudo rm -rd /etc/pacman.d/gnupg
+pacman-key --init
+sudo pacman-key --init
+sudo pacman-key --populate
+clear
+cd dev/rust/trtsga/
+cargo r -r
+sudo pacman -Syyu
+clear
+cargo r -r
+cd ..
+cd tarot_saga/
+clear
+cargo r -r
+clear
+cat src/main.rs
+waybar 
+paru -Rns waybar-hyprland-cava-git
+paru -Rns waybar-hyprland
+paru -Rns waybar
+paru -S waybar
+waybar 
+paru -S waybar-hyprland
+waybar 
+clear
+waybar 
+nvim .
+nvim .config/nushell/config.nu
+clear
+cd dev/rust/trtsga/
+nvim 
+clear
+cd 
+cd .config/
+mv nvim/ nvim.old
+clear
+nvim .
+nvim --version
+git -v
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+nvim
+cd 
+cd dev/rust/trtsga/
+clear
+nvim s
+nvim .
+clear
+cd 
+cd .config/
+rm nvim/
+rm -rd nvim/
+rm -r nvim/
+clear
+rm -rf ~/.local/share/nvim/
+nvim .
+clear
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 ; nvim
+cd 
+cd dev/rust/trtsga/
+nvim .
+nvim 
+nvim /etc/ly/config.ini
+sudo nvim /etc/ly/config.ini
+cd .config/nvim/
+nvim .
+nvim 
+nvim src/main.rs
+nvim .
+nvim .
+nvim 
+clear
+exut
+exit
+nvim 
+cd .config/nvim.old/
+ls
+clear
+nvim .
+cd ..
+cd nvim/
+cd ..
+cd alacritty/
+grim
+ls
+cd Pictures/
+ls
+grim -h
+grim -g
+clear
+cd Pictures/
+mkdir Sreenshots
+ls
+cd Sreenshots/
+pwd
+sh
+ls
+grim -g "$(slurp)"
+cd dev/rust/trtsga/
+cargo r -r
+cd dev/rust/trtsga/
+clear
+cargo r -r
+clear
+cargo r -r
+1 / 3
+clear
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+exit
+cd dev/rust/trtsga/
+cargo r -r
+cd dev/rust/trtsga/
+cargo r -r
+nvim .
+clear
+exit
+clear
+poweroff 
+cd dev/rust/trtsga/
+cargo r -r
+cargo fmt
+cargo r -r
+cd dev/rust/trtsga/
+clear
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+exit
+cd dev/rust/trtsga/
+cargo r -r
+cargo fm
+cargo fmt
+cargo r -r
+exit
+cd dev/rust/trtsga/
+cargo r -r
+nvim
+git clone https://github.com/noriaku/dotfiles-arch.git
+mv .config/waybar/ .config/waybar.alt/
+mv dotfiles-arch/waybar/ .config/
+ls dotfiles-arch/
+waybar 
+killall waybar
+waybar 
+nvim .config/hypr/hypr/
+nvim .config/hypr/hyprland.conf
+waybar 
+paru -S hyprshotgun
+hyprshotgun 
+clear
+hyprshotgun region
+paru -S wlogout
+wlogout 
+paru -S swaylock
+wlogout 
+systemctl restart pipewire 
+systemctl restart pulseaudio
+reboot
+waybar 
+cd .config/waybar/
+waybar 
+waybar .config/waybar/config.jsonc
+waybar .config/waybar/
+clear
+cat .config/hypr/hyprland.conf
+clear
+waybar
+waybar .config/waybar/
+waybar .config/waybar/config.jsonc
+waybar
+cd .config/waybar/
+nvim ../nvim.old/
+cd ..
+ls
+clear
+cat nvim.old/
+waybar
+sudo nvim /etc/ly/config.ini
+sudo nvim /opt/discord/resources/build_info.json
+waybar
+cat waybar.alt/waybar/config.jsonc
+playerctl pause
+playerctl play-pause
+nvim nvim/
+playerctl play-pause
+hyprctl reload
+wofi --show drun
+playerctl play-pause
+sudo libinput debug-events --show-keycodes
+clear
+wev
+paru -S wev
+wev
+playerctl next
+playerctl --help
+paru -S pamixeer
+paru -S pamixer
+cd .config/waybar/
+pamixer -h
+waybar
+pamixer -h
+pamixer --default-source
+pamixer --default-source -h
+waybar -h
+killall waybar
+waybar 
+nvim .
+cd .config/waybar.alt/
+cat config
+cat waybar/config.jsonc
+waybar 
+cat waybar/style.css
+swaylock 
+wlogout 
+waybar 
+killall waybar
+waybar 
+swaylock 
+wlogout 
+cd .config/waybar
+killall waybar
+waybar 
+clear
+poweroff 
+cd .config/waybar
+cat dev/rust/trtsga/Cargo.toml
+cd dev/rust/trtsga/
+cd .config/waybar
+cd 
+cd dev/rust/trtsga/
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cd dev/rust/trtsga/
+cp -r src/components/* src/collision/
+clear
+cargo r -r
+cargo fmt
+cargo r -r
+cat ../tarot_saga/src/main.rs
+cat ../tarot_saga/src/components/
+cat ../tarot_saga/src/components/mod.rs
+clear
+cargo r -r
+cat ../tarot_saga/src/main.rs
+cat ../tarot_saga/src/setup.rs
+cargo r -r
+cargo r -r1
+cargo r -r
+cat ../tarot_saga/src/setup.rs
+cargo fmt
+cp ../tarot_saga/assets/ .
+cp -r ../tarot_saga/assets/ .
+cargo r -r
+cargo fmt
+cargo r -r
+cd ..
+cd tarot_saga/
+cargo r -r
+nvim .
+cargo r -r
+cd tarot_saga/
+cd 
+cd trtsga/
+cd dev/rust/trtsga/
+cargo r -r
+eeeee
+cargo r -r
+grim -g "$(slurp)"
+hyprshotgun region
+grim -g "$(slurp)" 
+grim -g 
+grim -h
+grim -g 
+grim -g "$(slurp)" 
+grim -g "$(slurp)"
+grim
+ls
+clear
+nvim .
+exit
+ckear
+clear
+cd dev/rust/tarot_saga/
+cp . ../ts.old
+cp -r . ../ts.old
+ls
+clear
+nvim .
+cp ../ts.old/src/ .
+cp -r ../ts.old/src/ .
+clear
+cd dev/rust/tarot_saga/
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+nvim .
+cargo add bevy_editor_pls
+cargo r -r
+1 / 3
+cargo r -r
+cargo  -h
+cargo update
+cargo r -r
+1 / 3
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+nvim 
+cargo r -r
+./target/release/tarot_saga
+./target/release/
+ls
+cd ..
+clear
+cargo r -r
+cd dev/rust/tarot_saga/
+clear
+cargo r -r
+cargo fmt
+cargo r -r
+./target/release/
+cd ..
+./target/release/tarot_saga
+clear
+cargo fmt
+clear
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+ls ../ts.old/src/main.rs
+cat ../ts.old/src/setup.rs
+cargo r -r
+cargo fmt
+cargo r -r
+firefox assets/00.png
+gimp assets/00.png
+clear
+gimp assets/00.png
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo r -r#
+cargo r -r
+mkdir src/controller
+brave assets/valla_walking.png
+mkdir src/init
+cargo r -r
+imginfo assets/00.png
+imginfo -h
+gimp assets/00.png
+gimp assets/valla_walking.png
+cargo r -r
+cargo r -r#
+cargo fmt
+cargo r -r
+cargo add bevy_sprite3d
+cargo r -r
+nvim 
+poweroff 
+cd dev/rust/tarot_saga/
+cargo fmt
+cargo r -r
+mkdir src/player_animation
+cargo r -r
+cp -r 
+cp -r ~/dev/
+cp -r ~/dev/gits/bevy_sprite3d/assets/gabe-idle-run.png assets/
+cp -r 
+cargo r -r
+cd dev/gits/bevy_sprite3d/
+cargo run --example dungeon
+cargo r -r
+clear
+nvim .
+cargo add bevy_asset_loader
+mkdir src/test
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cd dev/gits/bevy
+cargo run --example hierarchy
+cargo fmt
+cargo r -r
+nvim .
+cargo r -r
+cargo fmt
+cargo r -r
+13 * 128
+12 * 128
+cargo r -r
+cargo -h
+cargo search bevy_asset_loader
+cargo check bevy_asset_loader
+cargo add bevy_asset_loader
+clear
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cargo fmt
+cargo r -r
+cd dev/gits/bevy
+cargo run --example sampler_descriptor
+cargo run --example texture
+cargo run --example 
+cargo run --example texture_binding_array
+mkdir assets/sprites
+mkdir assets/shaders
+mv assets/*.png assets/sprites/
+cd .config/nvim/
+nvim .
+nvim .
+cargo r -r
+cargo run --example shader_material_glsl
+cargo run --example shader_material
+cargo run --example shader_material_glsl
+cargo run --release
+btop
+clear
+cargo add rand
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+git 
+git inti
+git init
+git init.
+clear
+git add .
+ls -a
+git add .
+git add src/
+git add assets/
+git add Cargo.toml
+git add Cargo.lock
+git commit -m "Overhaul everything"
+git push -f origin main
+clear
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+nvim .
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+paru -S shotcut
+paru -Sy shotcut
+brave Documents/islam/
+http get https://www.gannett-cdn.com/-mm-/7ae8c98f6dc2dd9da146b313f0e7004c9685a9ef/c=0-152-5502-3261&r=x1683&c=3200x1680/local/-/media/2017/06/23/USATODAY/USATODAY/636338300240875435-AFP-AFP-PV47U.jpg | write  Documents/islam/m.jpg
+http -h
+write -h
+grim
+sudo nvim /opt/discord/resources/build_info.json
+cd dev/rust/tarot_saga/
+clear
+poweroff e
+grim
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+yt-dlp https://www.youtube.com/watch?v=AswXiy8JCsI -f mp3
+ckear
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo fmt
+cargo run --release
+12 * 128
+cargo run --release
+12 * 128
+cargo run --release
+50 / 9.81
+9.81 * 5.136
+cargo run --release
+12 * 128
+cargo run --release
+cargo fmt
+cargo run --release
+cd dev
+cd gits/
+git clone https://github.com/idanarye/bevy-tnua.git
+cargo run --example
+cd bevy-tnua/
+cargo run --example
+cargo run --example platformer_rapier3d
+cargo add bevy_tnua
+cargo add bevy_tnua_rapier3d
+cargo run --example
+cargo run --release
+cargo fmt
+cargo run --release
+yt-dlp https://www.youtube.com/watch?v=AswXiy8JCsI -f mp3
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cd ..
+ls
+cd bevy_rapier/
+cargo run --example
+cargo run --example ray_casting3
+cargo run --example player_movement2
+ls
+cargo run --example
+cargo run --example events3
+cargo run --example boxes3
+nvim .
+cargo run --example boxes3
+cargo run --example ray_casting3
+cargo run --release
+nvim .
+cargo fmt
+nvim .
+cargo run --release
+cargo fmt
+cargo run --release
+:w
+clear
+cargo run --release
+sudo nvim /opt/discord/resources/build_info.json
+cargo run --release
+cargo fmt
+cargo run --release
+nvim .
+clear
+poweroff -\_°u°_/-
+paru -S syncthing
+paru -S clonezilla
+clonezilla 
+sudo clonezilla 
+poweroff -\_°u°_/-
+udisksctl unmount -b /dev/sdd1
+sudo fdisk -l
+udisksctl unmount -b /dev/sdc
+udisksctl unmount -b /dev/sdc1
+udisksctl mount -b /dev/sdc1
+sudo ntfsfix /dev/sdc1
+udisksctl mount -b /dev/sdc1
+fdisk -l /dev/sdc1
+fdisk -l /dev/sdc
+sudo fdisk -l /dev/sdc
+parted /dev/sdc
+sudo parted /dev/sdc
+clear
+cd dev/
+cd 
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+clear
+cargo run --release
+exit
+cd dev/rust/tarot_saga/
+cargo run --release
+unityplayer controller
+cargo run --release
+cd dev/rust/testing/
+ls
+ls Cargo.toml
+cat Cargo.toml
+cd ..
+cd trtsga/
+cargo run --release
+cargo add bevy_rapier3d
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+t
+exit
+cd dev/rust/trtsga/
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+amixer 
+cargo run --release
+amixer 
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+1000 / 2000 * 2 - 1
+cargo run --release
+cd dev/rust/trtsga/
+cd ..
+cd 
+cd dev/rust/testing/
+cd
+cd dev/rust/tarot_saga/
+cargo run --release
+nvim .
+clear
+sleep 3sec ; ls
+sleep 3sec && ls
+sleep 3sec || ls
+nohup sleep 3 sec ; ls
+ls
+rm nohup.out
+nohup sleep 3 sec ; ls
+sh
+rm nohup.out
+sleep 10sec ; killall tarot_saga
+cargo run --release
+sleep 10sec ; killall tarot_saga
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo fmt
+cargo run --release
+cd 
+cd .cargo/
+egrep -rul "KinematicCharacterControllerOutput" .
+grep -E -rul "KinematicCharacterControllerOutput" .
+grep -E -ril "KinematicCharacterControllerOutput" .
+grep -E -ril ".move_shape(" .
+grep -E -ril ".move_shape" .
+grep -E -ril "fn move_shape" .
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo fmt
+cargo run --release
+nvim .
+exit
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+nvim .
+cargo run --release
+cd .config/waybar/
+mim .
+nvim .
+exit
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+nvim .
+cd ..
+cd trtsga/
+ls
+cd dev/rust/trtsga/
+cargo run --release
+rm assets/*
+mv *.png assets/
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+cargo add rand
+cargo run --release
+cargo add rand
+cargo run --release
+cargo add rand
+cargo run --release
+cargo add rand
+cargo run --release
+cargo run --release | grep "12"
+cargo run --release | grep "13"
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+1000 / 2000 * 2 - 1
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fm
+cargo fmt
+cargo fm
+cargo run --release
+cargo fm
+cargo run --release
+1000 / 2000 * 2 - 1
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+:w
+clear
+nvim .
+cargo run --release
+pow
+cd dev/rust/trtsga/
+cargo run --release
+nvim .
+cargo run --release
+cd dev/rust/trtsga/
+cargo run --release
+15 * 15 / 2
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cd ..
+cd tarot_saga/
+cargo run --release
+cd ..
+ls
+cd tarot_saga/
+cargo run --release
+git commit -m "player_controller overhgaul"
+cd ..
+zip tarot_saga/
+ls
+zip tarot.zip tarot_saga/
+zip -d tarot.zip tarot_saga/
+clear
+git push -f origin main
+git add .
+zip -r tarot.zip tarot_saga/
+zip -h
+sh
+clear
+mv tarot_saga/target/ .
+sh
+mv tarot_saga/.git/ .
+mv -r tarot_saga/.git/ .
+mkdir temp
+mv tarot_saga/.git/ ./temp/
+sh
+clear
+ls
+mv target/ tarot_saga/
+cargo run --release
+cd ta
+cd tarot_saga/
+cargo run --release
+nvim .
+cd ..
+cd trtsga/
+cd ..
+cd trtsga/
+cargo run --release
+cd ..
+cp -r trtsga/ wave_function_collapse
+cd dev/rust/wave_function_collapse/
+cat src/main.rs
+cd ..
+cd trtsga/
+cargo run --release
+nvim .
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+./target/release/tarot_saga
+cargo run --release
+cd dev/rust/wave_function_collapse/
+cargo run --release
+cd ..
+cargo run --release
+clear
+cd dev/rust/wave_function_collapse/
+cd ..
+cd trtsga/
+cargo run --release
+15 * 15 / 2
+cargo run --release
+cd dev/gits/
+clear
+git clone https://github.com/gridbugs/wfc.git
+cd wfc/
+cargo run --example
+cargo run --example anchor
+cargo run --example anchor -- -a -i 
+clear
+exit
+cargo run --release --example=animate -- -i examples/cat.png -x100 -y60 -p3 --forever
+cargo run --release --example=animate 
+cargo run --release --example animate 
+cargo run --release --example 
+cargo run --release --example simple
+cargo run --release --example simple -- -i ../../rust/trtsga/assets/vstroke.png
+cargo run --release --example simple -- -i ../../rust/trtsga/assets/vstroke.png -o out.pn
+cargo run --release --example simple -- -i ../../rust/trtsga/assets/vstroke.png -o out.png
+brave out.png
+cargo run --release --example simple -- -i ../../rust/trtsga/assets/vstroke.png -o out.pn
+clear
+ls
+ls images/
+cargo run --release --example simple -- -i images/bricks-output1.png -o out.pg
+cargo run --release --example simple -- -i images/bricks-output1.png -o out.png
+brave out.png
+cargo run --release --example simple -- -i images/rooms-output1.png -o out.png
+brave out.png
+clear
+nvim .
+cd ,,
+cd ..
+git clone https://github.com/AustinHellerRepo/WaveFunctionCollapse
+cd WaveFunctionCollapse/
+cargo run --release --example image
+nvim .
+cargo run --release --example landscape
+cd dev/gits/WaveFunctionCollapse/
+cargo run --release --example landscape
+nvim .
+cargo run --release --example sparse
+cargo run --release --example sodoku
+cargo run --release --example sodoku
+cargo run --release --example sudoku
+cargo run --release --example 
+cargo run --release --example zebra_puzzle
+ls examples/landscape.rs
+cat examples/landscape.rs
+nvim .
+cd ..
+cd tarot_saga/
+cd dev/rust/tarot_saga/
+cargo run --release
+nvim .
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo fmt
+cargo run --release
+15 * 15 / 2
+cargo run --release
+exit
+cd dev/rust/tarot_saga/
+cargo run --release
+ŵ
+cargo run --release
+nvim .
+ŵ
+cargo run --release
+cargo fmt
+cargo run --release
+4 / 3 
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+15 * 15 / 2
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/trtsga/
+cat src/main.rs
+cargo run --release
+cargo fmt
+cargo run --release
+nvim .
+:q
+exit
+cd dev/rust/tarot_saga/
+cargo run --release
+cd dev/rust/tarot_saga/
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+der::renderer: AdapterInfo { name: "AMD Radeon Vega 8 Graphics (RADV RAVEN)", vendor: 4098, device: 5592, device_type: IntegratedGpu, driver: "radv", driver_info: "Mesa 23.2.1-arch1.2", backend: Vulkan }2024-01-04T12:25:25.509594Z  INFO bevy_editor_pls_default_windows::cameras: Spawning editor cameras[src/generation/mod.rs:26] &nvoxel = Grass[src/generation/mod.rs:26] &nvoxel = Grass[src/generation/mod.rs:26] &nvoxel = Grass[src/generation/mod.rs:26] &nvoxel = Grass[src/generation/mod.rs:26] &nvoxel = Grass
+cargo run --release
+15 * 15 / 2
+cargo run --release
+clear
+cargo run --release
+clear
+cargo run --release
+cargo fmt
+cargo run --release
+cargo fmt
+cargo run --release
+15 * 15 / 2
+cargo run --release
+cargo fmt
+cargo run --release
+sh
+cargo run --release
+cargo fmt
+cargo run --release
+nvim .
+cd dev/rust/tarot_saga/
+cargo run --release
+nvim .
+clear
+cd ..
+ls
+rm -r temp/
+cargo new voxel_bevy
+nvim .
+cd voxel_bevy/
+cd dev/rust/v
+cd dev/rust/voxel_bevy/
+clear
+carg add bevy
+cargo add bevy
+cargo add bytemuck
+mkdir assets/shaders
+cp -r ../../gits/bevy/assets/shaders/instancing.wgsl assets/shaders/
+cargo run --release
+cargo add bevy_editor_pls
+cargo run --release
+$env.RUST_BACKTRACE = 1; cargo run --realse
+$env.RUST_BACKTRACE = 1; cargo run --release
+$env.RUST_BACKTRACE = full; cargo run --release
+cargo run --release
+clear
+cd dev/rust/voxel_bevy/
+cargo run --release
+cargo add bevy_flycam
+cargo run --release
+10000 ** 2
+cargo run --release
+cargo add perlin_noise
+cargo run --release
+write -h
+cargo run --release
+exit
+cd dev/rust/voxel_bevy/
+cargo run --release
+cd dev/gits/bevy/assets/shaders/
+grep -E -ril "rot" .
+grep -E -ril "R" .
+grep -E -ril "uniform" .
+nvim .
+grep -E -ril "uniform" .
+cargo run --release
+d www
+cargo run --release
+cd ..
+cargo run --release --example 
+cargo run --release --example circle
+grep -E -ril "circle_shader.wgsl" .
+grep -E -ril "circle_shader.wgsl" ./examples/
+grep -E -ril "circle_shader.wgsl" ./assets/
+clear
+git update
+rm bevy
+rm bevycd
+cd ..
+rm bevycd
+rm -r bevy
+git clone https://github.com/bevyengine/bevy.git
+cd bevy
+clear
+cargo run --release --example circle
+grep -E -ril "circle_shader.wgsl" ./examples/
+cargo run --release --example ui_material
+grep -E -ril "circle_shader.wgsl" ./examples/
+rustup update
+cargo run --release --example ui_material
+cargo run --release --example 
+cargo run --release --example custom_vertex_attribute
+cargo run --release 
+cd ..
+git clone 
+git clone https://github.com/Game4all/vx_bevy.git
+cd vx_bevy/
+--cma
+cmatrix -mrxsbC red
+cargo run --release 
+ad
+cargo run --release 
+exit
+grim
+cd dev/rust/voxel_bevy/
+cargo run --release 
+poweroff 2023-09-15-233715_hyprshot.png
+poweroff# 2023-09-15-233715_hyprshot.png
+nvim --config
+paru -Syy
+paru -Syyu
+alacritty migrate
+nvim .config/alacritty/
+cat /tmp/Alacritty-58824.log
+poweroff# 2023-09-15-233715_hyprshot.png
+nvim .config/hypr/hyprland.conf
+poweroff 
+paru -S speedtest-rs
+clear
+speedtest-rs 
+ping google.com
+clear
+nvim fahrschule.txt
+clear
+2.5 ** 2
+6.25 * 3
+2.5 ** 2
+2.5 ** 2 / 4
+2.5 ** 2 / 4 - 2.5
+2.5 ** 2 / 4 - 2.5 - 3
+2.5 ** 2 / 4 - 5.5
+0.5 / 2
+0.5 / 2 ** 2
+(0 - 0.125) + 1.4
+reboot
+poweroff 
+nvim .config/alacritty/
+nvim .config/alacritty/alacritty.toml
+ckear
+clear
+cd dev/rust/voxel_bevy/
+cargo run --release 
+cd dev/rust/voxel_bevy/
+cargo run --release 
+cargo fmt
+cargo run --release 
+def f [x, y, z] {($x + 1) * 6 + ($y + 1) * 3 + ($z + 1)}
+f 0 0 0
+f 2 2 2
+def f [x, y, z] {$x * 6 + $y * 3 + $z}
+f 0 0 0
+f 2 2 2
+def f [x, y, z] {$x * 6 + $y * 9 + $z * 3}
+f 2 2 2
+def f [x, y, z] {$x + $y * 9 + $z * 3}
+f 2 2 2
+f 2 1 2
+f 1 1 1
+f 2 1 0
+f 0 1 2
+def f [x, y, z] {$x * 3+ $y * 9 + $z}
+def f [x, y, z] {$x * 3 + $y * 9 + $z}
+f 0 1 2
+f (0 - 1) 1 2
+cargo fmt
+cargo run --release 
+hypr reload
+hypr -h
+hyprctl reload
+wlr-randr --output HDMI-A-1 --pos 3840,0
+wlr-randr --output HDMI-A-1 --pos 0,0
+wlr-randr --output HDMI-A-1 --pos 1920,0
+wlr-randr --output HDMI-A-1 --pos -1920,0
+cargo run --release 
+wlr-randr --output HDMI-A-1 --pos -1920,0
+cargo run --release 
+def f [x, y, z] {$x * 4 + $y * 16 + $z}
+f 0 4 0
+cargo run --release 
+cargo fmt
+cargo run --release 
+16 ** 3
+cargo run --release 
+32 ** 3
+cargo run --release 
+cargo fmt
+cargo run --release 
+cargo run --release
+nvim .
+cargo run --release 
+cargo fmt
+cargo run --release 
+cargo fmt
+cargo run --release 
+cargo fmt
+cargo run --release 
+cargo fmt
+cargo run --release 
+32 * 5
+cargo run --release 
+96 ** 3
+cargo run --release 
+sudo nvim /opt/discord/resources/build_info.json
+paru -Syy brave-browser
+paru -Syy 
+paru -Syyu
+paru -Rns waybar-hyprland
+killall waybar
+waybar 
+paru -Syyu
+paru -S waybar-hyprland
+ls
+rm -r  rust-logo-128x128.png
+rm -r tikzjax/
+rm -r paru-bin/
+rm -r nonan.pdf
+rm -r dotfiles/
+rm -r dotfiles-arch/
+cd Documents/
+ls
+rm islam/
+rm -r islam/
+rm -r islam.mp4
+clear
+paru -S waybar-git
+date
+date now
+paru -S waybar-git
+date now
+nvim fb.jpg
+nvim Documents/fb.jpg
+cd Documents/
+mv fb.jpg fb.md
+firefox fb.md
+brave fb.md
+obsidian fb.md
+clear
+cd dev/rust/voxel_bevy/
+cargo run --release 
+cd dev/rust/voxel_bevy/
+cargo run --release 
+nvim .
+cd ..
+clear
+cd tarot_saga/
+clear
+mkdir src/terrain ; cp -r ../voxel_bevy/src/main.rs
+cp -r ../voxel_bevy/src/main.rs src/terrain/mod.rs
+clear
+cat src/main.rs
+clear
+cd dev/rust/voxel_bevy/
+cd ..
+cd tarot_saga/
+clear
+cargo run --release 
+cd dev/rust/
+cat voxel_bevy/Cargo.toml
+cd dev/rust/
+cp -r voxel_bevy/assets/shaders/* tarot_saga/assets/shaders/
+clear
+cd ..
+nvim .
+cd ..
+mv tarot_saga/ tsc
+clear
+cd tsc/
+clear
+cd tsc/
+clea
+clear
+cargo run --release 
+:101
+clear
+:101
+clear
+cargo run --release 
+nvim .
+clear
+asddad
+clear
+´00
+clear
+sudo pacman -S guitarix pipewire-jack qpwgraph
+sudo groupadd realtime
+sudo usermod -aG realtime joe
+sudo usermod -aG audio joe
+cp  /usr/share/pipewire/jack.conf  ~/.config/pipewire/jack.conf
+groups 
+cat /usr/share/pipewire/jack.conf
+mkdir .config/pipewire
+cp  /usr/share/pipewire/jack.conf  ~/.config/pipewire/jack.conf
+clear
+nvim .config/pipewire/jack.conf
+clear
+ulimit -l
+ulimit -h
+ulimit -c unlimited
+sudo nvim /etc/security/limits.d/audio.conf
+sudo mkdir /etc/security/limits.d
+sudo nvim /etc/security/limits.d/audio.conf
+cöear
+clear
+poweroff 
+clear
+cd dev/web/
+npm create svelte@latest chtbl
+cd chtbl/
+npm i
+npm eun dev -- --open
+cd dev/web/chtbl/
+clear
+nvim .
+cd .config/nvim/
+clear
+nvim .
+clear
+nvim .
+sudo nvim /opt/discord/resources/build_info.json
+exit
+clear
+cd ..
+cd..
+cd ..
+cd rust/
+cd tsc/
+clear
+cargo run --release 
+cd ..
+clear
+cd voxel_bevy/
+cargo run --release 
+СССССС
+ддВВВ
+ВВВ
+cat .config/hypr/hyprland.conf
+vim .config/hypr/hyprland.conf
+cargo install taizen
+taizen 
+cd Documents/
+ls
+cat joe.png
+ls
+..
+ls Pictures/
+nvim Documents/fb.md
+4 / 3 
+clear
+brave fb.md
+brave Documents/fb.md
+hyprctl reload
+cd dev/rust/tsc/
+cargo run --release 
+nvim .
+clear
+ls
+cd ..
+ls
+clear
+ls testing/
+cat testing/Cargo.toml
+ckear
+clear
+ls
+poweroff 
+cd dev/rust/tsc/
+cargo run --release 
+cd dev/rust/tsc/
+cargo run --release 
+nvim .
+cargo add bevy_rapier3d
+cargo run --release 
+rustup update
+cargo run --release 
+cd dev/gits/
+rm -r bevy_sprite3d/
+git clone https://github.com/FraserLee/bevy_sprite3d.git
+cd bevy_sprite3d/
+cargo run --example 
+cargo run --release 
+cargo run --example sprite_sheet
+cargo run --release 
+cargo fmt
+cargo run --release 
+rust-analyzer -h
+rust-analyzer 
+rustc --print sysroot
+rustup update 
+rustup component add rust-src 
+rustup -h
+rustc -vV
+rustc -h
+rustup -h
+rustup doc --book
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+rm -r ~/.rustup/
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+cargo run --release 
+nvim .
+cargo run --release 
+rust-analyzer 
+rustup component add rust-analyzer
+rust-analyzer 
+clear
+touch src/terrain/components.rs
+clear
+cd Downloads/
+ls
+nvim `Unbenanntes Dokument.docx`
+open `Unbenanntes Dokument.docx`
+libreoffice  `Unbenanntes Dokument.docx`
+mv `Unbenanntes Dokument.docx` `Deutsch Spracherosion.docx`
+paru -S grimshot
+grimblast 
+grimblast save area
+rm 2023-09-15-233715_hyprshot.png
+clear
+cd Pictures/
+ls
+rm *.png
+clear
+ls
+clear
+nvim .config
+nvim ~/.config/hypr/hyprland.conf
+ls
+rm 2024-03-05T14:32:20,674464553+01:00.png
+taizen 
+taizen -h
+taizen 
+wlr-randr --output HDMI-A-1 --pos -1920,0
+nvim Documents/fb.md
+wlr-randr --output HDMI-A-1 --pos -1920,0
+sudo nvim /opt/discord/resources/build_info.json
+exit
+cd dev/rust/
+clear
+cd dev/rust/
+nvim .
+cd tsc/
+cargo run --release 
+cd dev/rust/tsc/
+cargo run --release 
+sudo nvim /opt/discord/resources/build_info.json
+clear
+cargo run --release 
+cargo run --release
+cargo fmt
+cargo run --release
+sudo nvim /opt/discord/resources/build_info.json
+cargo run --release
+16 ** 3
+cargo run --release
+nvim .
+cd dev/rust/tsc/
+cargo run --release
+cd dev/rust/voxel_bevy/
+cargo run --release
+./target/release/voxel_bevy
+cargo run --release
+cat src/main.rs
+cat Cargo.toml
+cat src/main.rs
+ls src/
+cat src/main.rs
+cat src/main.rs -h
+cat src/main.rs -p
+cp src/main.rs ../tsc/src/terrain/
+cat src/main.rs -p
+clear
+cargo run --release
+pacman -S rust
+sudo pacman -S rust
+clear
+cd .config/nvim/
+nvim .
+clear
+nvim .
+cargo run --release
+cd ..
+cd voxel_bevy/
+clear
+cd dev/rust/voxel_bevy
+cargo run --release
+nvim .
+cd ..
+cd tsc/
+cd .config/nvim/
+cargo run --release
+nvim .
+cargo run --release
+cargo fmt
+cargo run --release
+clear
+cd ..
+cd tsc/
+cp src/ src.bac
+cp -r src/ src.bac
+clear
+cargo run --release
+cd tsc/
+cd
+clear
+ls
+nvim .
+cd dev/rust/tsc/
+git add .
+clear
+git -h
+git add .
+ls
+touch .gitnore
+rm .gitnore
+nvim .gitignore
+clear
+git add .
+git init
+git add .
+nvim .gitignore
+clear
+git add .
+ls
+git commit -m "New Repo"
+git push -f origin main
+git remote add origin https://github.com/joee306/dotfiles.git
+git push -f origin main
+git remote add origin https://github.com/joee306/TSC.git
+git remote -h
+git remote remove origin
+git remote add origin https://github.com/joee306/TSC.git
+git push -f origin main
+clear
+cd 
+cd .config/
+ls
+git add nvim
+git init
+git add nvim
+git list .
+git .
+clear
+git add nvim
+ls
+git add wofi 
+rm hypr/hypr/
+rm -r hypr/hypr/
+clear
+ls hypr/
+rm -r hypr/test.log
+rm -r hypr/store/
+ls
+nvim add nushell/

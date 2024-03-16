@@ -1,0 +1,159 @@
+{
+    // -> modules config
+    "user": {
+        "format": "<span color=\"#f38ba8\"> 󰣇 </span>",
+        "interval": 60,
+        "height": 30,
+        "width": 30,
+        "icon": true
+    },
+    "clock#time": {
+        "format": "<span color=\"#9aa5ce\">  {:%H:%M}</span>",
+        "interval": 1
+    },
+    "clock#date": {
+        "format": "<span color=\"#a9b1d6\">  {:%d%m%Y}</span>",
+        "calendar": {
+            "mode": "month",
+            "mode-mon-col": 4,
+            "weeks-pos": "right",
+            "on-scroll": 1,
+            "on-click-right": "mode",
+            "format": {
+                "months": "<span color='#c0caf5'><b>{}</b></span>",
+                "days": "<span color='#c0caf5'><b>{}</b></span>",
+                "weeks": "<span color='#7dcfff'><b>W{}</b></span>",
+                "weekdays": "<span color='#ff9e64'><b>{}</b></span>",
+                "today": "<span color='#f7768e'><b><u>{}</u></b></span>"
+            }
+        },
+        "interval": 360
+    },
+    "battery": {
+        "bat": "BAT0",
+        "interval": 60,
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon} {capacity}%</span>",
+        "format-icons": [
+            "<span color=\"#f7768e\"> ",
+            "<span color=\"#f7768e\"> ",
+            "<span color=\"#7aa2f7\"> ",
+            "<span color=\"#7aa2f7\"> ",
+            "<span color=\"#7aa2f7\"> "
+        ],
+        "format-charging": "<span color=\"#e0af68\">󱐌 {capacity}%</span>"
+    },
+    "cpu": {
+        "format": "<span color=\"#bb9af7\">  {usage}% </span>",
+        "interval": 5
+    },
+    "memory": {
+        "format": "<span color=\"#7aa2f7\">  {percentage} %</span>",
+        "interval": 5,
+        "max-length": 30
+    },
+    "temperature": {
+        "hwmon-path": "/sys/class/hwmon/hwmon4/temp1_input",
+        "critical-threshold": 80,
+        "format": "<span color=\"#f5c2e7\"> {temperatureC}°C </span>",
+        "format-critical": "<span color=\"#f38ba8\">󰈸 {temperatureC}°C</span>",
+        "interval": 5
+    },
+    "pulseaudio": {
+        "format": "<span color=\"#a9b1d6\">  {volume}%</span>",
+        "tooltip": false,
+        "format-muted": "<span color=\"#f7768e\">󰖁 Muted</span>",
+        "on-click": "pamixer -t",
+        "on-scroll-up": "pamixer -i 5",
+        "on-scroll-down": "pamixer -d 5",
+        "scroll-step": 5,
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        }
+    },
+    "hyprland/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "active-only": false,
+        "format": "{icon}",
+        "on-click": "activate",
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1",
+        "format-icons": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7:": "7",
+            "8": "8",
+            "9": "9",
+            "urgent": "",
+            "active": "",
+            "default": ""
+        }
+    },
+    "pulseaudio#microphone": {
+        "format": "<span color=\"#a6e3a1\"> {volume}%</span>",
+        "format_source-muted": "<span color=\"#f38ba8\">  Muted</span>",
+        "on-click": "pamixer --mute",
+        "on-scroll-up": "pamixer --default-source -i 5",
+        "on-scroll-down": "pamixer --default-source -d 5",
+        "scroll-step": 5
+    },
+    "bluetooth": {
+	    "format": "<span color=\"#89b4fa\"> On</span> {device_alias}",
+        "max-length": 20,
+	    "format-off": "<span color=\"#89b4fa\">󰂲 Off</span> {status}",
+        "format_icons": {
+            "enabled": " On",
+            "disabled": "󰂲 Off"
+        }
+    },
+    "network": {
+        // "interface": "wlp2*", // (Optional) To force the use of this interface
+        "format-wifi": "<span color=\"#cba6f7\">  {signalStrength}%</span>",
+        "format-ethernet": "<span color=\"#cba6f7\">󰈀  Ethernet</span>",
+        "tooltip-format": "{essid} - {ifname} via {gwaddr}",
+        "format-linked": "{ifname} (No IP)",
+        "format-disconnected": "<span color=\"#cba6f7\">󰤭  Disconnected ⚠</span>",
+        "format-alt": "{ifname}:{essid} {ipaddr}/{cidr}"
+    },
+    "custom/spotify": {
+        "exec": "/usr/bin/python3 ~/.config/waybar/custom/mediaplayer.py",
+        "format": "<span color=\"#2ac3de\">󰐎  {}</span>",
+        "return-type": "json",
+        "on-click": "playerctl play-pause",
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous"
+    },
+    // https://github.com/coffebar/waybar-module-pacman-updates
+    "custom/updates": {
+        "format": "{icon} {}</span>",
+        "return-type": "json",
+        "format-icons": {
+            "has-updates": "<span color=\"#a6e3a1\">󰂪 ",
+            "updated": "<span color=\"#a6e3a1\"> "
+        },
+        "exec-if": "which waybar-module-pacman-updates",
+        "exec": "waybar-module-pacman-updates"
+    },
+    // https://github.com/chadsr/waybar-crypto
+    "custom/crypto": {
+        "format": "<span color=\"#f9e2af\">{}</span>",
+        "interval": 600,
+        "return-type": "json",
+        "exec": "/usr/bin/python3 ~/.dotfiles/scripts/waybar-crypto/waybar-crypto.py",
+        "exec-if": "ping pro-api.coinmarketcap.com -c1"
+    }
+}

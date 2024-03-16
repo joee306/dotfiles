@@ -1,0 +1,37 @@
+{
+    "layer": "top",
+    "output": "DVI-D-1",      // laptop -> primary monitor
+    "position": "top",
+    "mod": "dock",
+    "exclusive": true,
+    "passthrough": false,
+    "gtk-layer-shell": true,
+    "margin-top": 1,
+    "margin-left": 1,
+    "margin-right": 2,
+
+    "modules-left": [
+        "user",
+        "custom/spotify",
+        "backlight",
+        "custom/weather",
+        "network"
+    ],
+    "modules-center": [ 
+      "hyprland/workspaces"
+    ],
+    "modules-right": [
+        "memory",
+        "custom/updates",
+        "temperature",
+        "cpu",
+        "pulseaudio",
+        //"pulseaudio#microphone",
+        "tray",
+        "clock#date",
+        "clock#time"
+    ],
+    "include": [
+        "~/.config/waybar/modules.jsonc"
+    ]
+}//"hyprland/workspaces" //
